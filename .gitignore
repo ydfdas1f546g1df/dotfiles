@@ -1,0 +1,42 @@
+# Ignore everything
+*
+
+# But not these files...
+!.bashrc
+!.vimrc
+!.zshrc
+!.gitconfig
+!.gitignore
+!.ssh/config
+!.profile
+!pacmanQ
+!crontab.bak
+
+# Directories
+!.config/
+!.vim/
+!.vscode-oss/
+!.cargo/
+#!.git/
+!.npm/
+!.rustup/
+!.yarn/
+!.yarnrc/
+
+# Prevent accidental inclusion of sensitive or unnecessary files
+.ssh/*.key
+*.log
+*.tmp
+*.history
+cache/
+*.pid
+*.lock
+
+# Explicitly exclude directories that should not be managed by Git
+-/.cache/
+-/.local/
+-/.mozilla/
+-/.gnupg/
+-/node_modules/
+-/Downloads/
+

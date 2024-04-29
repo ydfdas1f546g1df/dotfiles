@@ -1,0 +1,1 @@
+0 0 * * * ~/.config/automation/dotfiles.sh >> ~/Dotfile.log 2>&1
