@@ -1,0 +1,6 @@
+# GIMP gimp-fuzzy-select-tool options
+
+(antialias no)
+(threshold 33.5)
+
+# end of gimp-fuzzy-select-tool options

@@ -1,0 +1,45 @@
+{
+  "auto_show_switchboard": true,
+  "auto_zoom_at_ship_load": false,
+  "background_music_volume": 50,
+  "blacklisted_updates": [],
+  "camera_speed_adjustment": 1,
+  "check_updates_at_startup": true,
+  "continuous_auto_focus": false,
+  "display_units_system": 0,
+  "game_music_volume": 100,
+  "global_mute": false,
+  "last_played_background_music": 2,
+  "last_ship_loaded_specifications": {
+    "definition_filepath": "\/home\/arch\/.nonInstallApps\/FloatingSimulator\/Ships\/A.R.C.C. Isla Del Sol.shp2",
+    "options": {
+      "flip_horizontally": false,
+      "flip_vertically": false,
+      "rotate_90cw": false
+    }
+  },
+  "pan_increment": 20,
+  "play_background_music": true,
+  "play_sinking_music": true,
+  "reload_last_loaded_ship_on_startup": false,
+  "save_settings_on_exit": true,
+  "screenshots_folder_path": "\/home\/arch\/Pictures\/Floating Sandbox",
+  "ship_auto_texturization_default_settings": {
+    "material_texture_magnification": 1,
+    "material_texture_transparency": 0,
+    "mode": "material_textures"
+  },
+  "ship_load_directories": [
+    "\/home\/arch\/.nonInstallApps\/FloatingSimulator\/Ships"
+  ],
+  "show_electrical_notifications": true,
+  "show_extended_status_text": false,
+  "show_ship_descriptions_at_ship_load": true,
+  "show_startup_tip": true,
+  "show_status_text": true,
+  "show_tsunami_notifications": true,
+  "start_in_full_screen": true,
+  "switchboard_background_bitmap_index": 0,
+  "version": "1.18.0.4",
+  "zoom_increment": 1.0499999523162842
+}

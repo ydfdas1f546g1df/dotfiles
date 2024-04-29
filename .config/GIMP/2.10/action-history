@@ -1,0 +1,20 @@
+# GIMP action-history
+
+(history-item "edit-clear" 2)
+(history-item "file-quit" 4)
+(history-item "file-export-as" 1)
+(history-item "file-save" 0)
+(history-item "edit-paste" 1)
+(history-item "tools-by-color-select" 0)
+(history-item "layers-alpha-add" 0)
+(history-item "select-all" 0)
+(history-item "image-new" 0)
+(history-item "select-invert" 0)
+(history-item "edit-copy" 1)
+(history-item "file-print-gtk" 1)
+(history-item "layers-duplicate" 0)
+(history-item "tools-fuzzy-select" 0)
+(history-item "dialogs-tool-options" 0)
+(history-item "file-open-recent-01" 1)
+
+# end of action-history

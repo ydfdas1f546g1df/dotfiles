@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Written on Sun Jan 28 16:23:07 2024 by Qt Creator 12.0.1-->
+<externaltool id="New_Tool">
+    <description>Clion</description>
+    <displayname>New Tool</displayname>
+    <category>Text</category>
+    <executable output="showinpane" error="showinpane" modifiesdocument="no">
+        <path>clion</path>
+    </executable>
+</externaltool>

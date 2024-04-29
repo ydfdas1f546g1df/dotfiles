@@ -1,5 +1,62 @@
 # Ignore everything
 *
+# Ignore binaries and executables
+*.exe
+*.bin
+*.o
+*.obj
+*.so
+*.dll
+*.dylib
+
+# Ignore images
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.tiff
+*.bmp
+
+# Ignore audio and video
+*.mp3
+*.mp4
+*.avi
+*.mkv
+*.wav
+
+# Ignore databases
+*.db
+*.sql
+*.sqlite
+
+# Ignore archives
+*.zip
+*.tar
+*.gz
+*.bz2
+*.7z
+*.rar
+
+# Ignore temp and backup files
+*.tmp
+*.temp
+*.bak
+*.backup
+*~
+*.swp
+*.swo
+
+# Ignore log and cache files
+*.log
+*.cache
+cache/
+log/
+
+# Ignore private configuration files
+*.key
+*.cert
+*.pem
+
 
 # But not these files...
 !.bashrc
@@ -13,6 +70,16 @@
 !crontab.bak
 
 # Directories
+!.config/
+!.vim/
+!.vscode-oss/
+.cargo/
+#!.git/
+.npm/
+!.rustup/
+.yarn/
+.yarnrc/
+
 !.config/**
 !.vim/**
 !.vscode-oss/**
@@ -25,10 +92,15 @@
 
 # Prevent accidental inclusion of sensitive or unnecessary files
 .ssh/*.key
+**.blob
 *.log
 *.tmp
 *.history
 cache/
+cache/**
+**Cache/**
+**Cache/
+
 *.pid
 *.lock
 
@@ -36,7 +108,30 @@ cache/
 -/.cache/**
 -/.local/**
 -/.mozilla/**
+**/Cache/**
+**/Service Worker/**
+**/Dry Cactus/**
 -/.gnupg/**
 -/node_modules/**
 -/Downloads/**
-
+.config/discord/
+.config/discord/**
+.vscode-oss/extensions/**
+.rustup/toolchains/**
+*.db
+*.png
+*.jpg
+CachedExtensionVSIXs/**
+.config/chromium/**
+.config/JetBrains/**
+.config/Electron/**
+*.backup
+.config/Code - OSS/Session Storage/**
+.config/Slack/Local Storage/**
+.config/Microsoft Office/**
+.config/Code - OSS/User/History/**
+.config/Code - OSS/Local Storage/**
+.config/Code - OSS/CachedData/**
+.config/Code - OSS/CachedExtensionVSIXs/**
+.config/github-copilot/**
+.config/Code - OSS/User/settings.json

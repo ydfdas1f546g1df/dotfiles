@@ -1,0 +1,148 @@
+<?xml version="1.0" ?>
+<!DOCTYPE Menu
+  PUBLIC '-//freedesktop//DTD Menu 1.0//EN'
+  'http://standards.freedesktop.org/menu-spec/menu-1.0.dtd'>
+<Menu>
+	<Name>Applications</Name>
+	<MergeFile type="parent">/etc/xdg/menus/gnome-applications.menu</MergeFile>
+	<Menu>
+		<Name>Games</Name>
+		<DefaultLayout inline="false"/>
+		<Menu>
+			<Name>alacarte-made</Name>
+			<Directory>alacarte-made.directory</Directory>
+			<Include>
+				<Filename>alacarte-made.desktop</Filename>
+			</Include>
+			<Include>
+				<Filename>alacarte-made-1.desktop</Filename>
+			</Include>
+			<Layout>
+				<Merge type="menus"/>
+				<Filename>alacarte-made.desktop</Filename>
+				<Merge type="files"/>
+			</Layout>
+		</Menu>
+		<Layout>
+			<Merge type="menus"/>
+			<Filename>org.gnome.TwentyFortyEight.desktop</Filename>
+			<Filename>org.gnome.Chess.desktop</Filename>
+			<Filename>org.gnome.five-or-more.desktop</Filename>
+			<Filename>org.gnome.Four-in-a-row.desktop</Filename>
+			<Filename>org.gnome.Games.desktop</Filename>
+			<Filename>org.gnome.Hitori.desktop</Filename>
+			<Filename>org.gnome.Klotski.desktop</Filename>
+			<Filename>org.gnome.LightsOff.desktop</Filename>
+			<Filename>org.gnome.Mahjongg.desktop</Filename>
+			<Filename>org.gnome.Mines.desktop</Filename>
+			<Filename>org.gnome.Nibbles.desktop</Filename>
+			<Filename>One-armed robber.desktop</Filename>
+			<Filename>Portal 2.desktop</Filename>
+			<Filename>org.gnome.Quadrapassel.desktop</Filename>
+			<Filename>org.gnome.Reversi.desktop</Filename>
+			<Filename>org.gnome.Robots.desktop</Filename>
+			<Filename>steam-native.desktop</Filename>
+			<Filename>steam.desktop</Filename>
+			<Filename>org.gnome.Sudoku.desktop</Filename>
+			<Filename>org.gnome.SwellFoop.desktop</Filename>
+			<Filename>org.gnome.Tali.desktop</Filename>
+			<Filename>org.gnome.Taquin.desktop</Filename>
+			<Filename>org.gnome.Tetravex.desktop</Filename>
+			<Merge type="files"/>
+		</Layout>
+	</Menu>
+	<Menu>
+		<Name>Development</Name>
+		<Include>
+			<Filename>alacarte-made-2.desktop</Filename>
+		</Include>
+		<Layout>
+			<Merge type="menus"/>
+			<Filename>accerciser.desktop</Filename>
+			<Filename>org.gnome.Boxes.desktop</Filename>
+			<Filename>org.gnome.Builder.desktop</Filename>
+			<Filename>jetbrains-clion-66902c11-55d3-435e-b042-8350021ad0d2.desktop</Filename>
+			<Filename>cmake-gui.desktop</Filename>
+			<Filename>code-oss.desktop</Filename>
+			<Filename>code-oss-url-handler.desktop</Filename>
+			<Filename>code-url-handler.desktop</Filename>
+			<Filename>org.gnome.Devhelp.desktop</Filename>
+			<Filename>org.gnome.dspy.desktop</Filename>
+			<Filename>electron24.desktop</Filename>
+			<Filename>electron25.desktop</Filename>
+			<Filename>org.gnome.GHex.desktop</Filename>
+			<Filename>org.gnome.gitg.desktop</Filename>
+			<Filename>org.gnome.Glade.desktop</Filename>
+			<Filename>ipython.desktop</Filename>
+			<Filename>jetbrains-toolbox.desktop</Filename>
+			<Filename>mysql-workbench.desktop</Filename>
+			<Filename>org.qt-project.qtcreator.desktop</Filename>
+			<Filename>org.gnome.Sysprof.desktop</Filename>
+			<Filename>jetbrains-webstorm-a75f5689-5f45-4cb0-8706-5d8f187dddbf.desktop</Filename>
+			<Filename>jetbrains-writerside-9054969e-e9f7-4d23-b93d-6e3c61b204c5.desktop</Filename>
+			<Merge type="files"/>
+		</Layout>
+	</Menu>
+	<Menu>
+		<Name>Utilities</Name>
+		<DefaultLayout inline="false"/>
+		<Menu>
+			<Name>alacarte-made-1</Name>
+			<Directory>alacarte-made-1.directory</Directory>
+		</Menu>
+		<Layout>
+			<Merge type="menus"/>
+			<Filename>org.gnome.FileRoller.desktop</Filename>
+			<Filename>org.gnome.Calculator.desktop</Filename>
+			<Filename>org.gnome.Characters.desktop</Filename>
+			<Filename>org.gnome.Console.desktop</Filename>
+			<Filename>org.gnome.Dictionary.desktop</Filename>
+			<Filename>org.gnome.DiskUtility.desktop</Filename>
+			<Filename>org.gnome.baobab.desktop</Filename>
+			<Filename>simple-scan.desktop</Filename>
+			<Filename>org.gnome.Evince.desktop</Filename>
+			<Filename>org.gnome.font-viewer.desktop</Filename>
+			<Filename>yelp.desktop</Filename>
+			<Filename>org.gnome.Logs.desktop</Filename>
+			<Filename>org.gnome.seahorse.Application.desktop</Filename>
+			<Filename>gnome-system-monitor.desktop</Filename>
+			<Filename>org.gnome.Terminal.desktop</Filename>
+			<Filename>org.gnome.tweaks.desktop</Filename>
+			<Filename>org.gnome.Usage.desktop</Filename>
+			<Merge type="files"/>
+		</Layout>
+	</Menu>
+	<DefaultLayout inline="false"/>
+	<Menu>
+		<Name>alacarte-made-2</Name>
+		<Directory>alacarte-made-2.directory</Directory>
+		<Include>
+			<Filename>alacarte-made-3.desktop</Filename>
+		</Include>
+		<Layout>
+			<Merge type="menus"/>
+			<Merge type="files"/>
+		</Layout>
+		<Deleted/>
+	</Menu>
+	<Layout>
+		<Merge type="menus"/>
+		<Menuname>Accessories</Menuname>
+		<Menuname>DaVinciResolve</Menuname>
+		<Menuname>Education</Menuname>
+		<Menuname>Games</Menuname>
+		<Menuname>Graphics</Menuname>
+		<Menuname>Internet</Menuname>
+		<Menuname>Office</Menuname>
+		<Menuname>Development</Menuname>
+		<Menuname>Multimedia</Menuname>
+		<Menuname>System Settings</Menuname>
+		<Menuname>System</Menuname>
+		<Menuname>Universal Access</Menuname>
+		<Menuname>Utilities</Menuname>
+		<Menuname>Web Applications</Menuname>
+		<Menuname>wine-wine</Menuname>
+		<Menuname>Other</Menuname>
+		<Merge type="files"/>
+	</Layout>
+</Menu>
