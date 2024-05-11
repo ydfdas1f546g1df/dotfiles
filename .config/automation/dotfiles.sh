@@ -27,14 +27,16 @@ git add . || {
 }
 
 # Commit the changes, only if there are any changes to commit
-#if git diff-index --quiet HEAD --; then
-#	echo "No changes to commit."
-#else
+if git diff-index --quiet HEAD --; then
+	echo "No changes to commit."
+
+else
 	git commit -m "$commitMessage" || {
 		echo "Failed to commit changes. Exiting."
 		exit 1
 	}
-	# Push changes to the master branch, check if push was successful
+fi
+# Push changes to the master branch, check if push was successful
 	git push origin master || {
 		echo "Failed to push changes to remote. Exiting."
 		exit 1
