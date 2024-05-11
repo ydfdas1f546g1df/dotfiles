@@ -117,7 +117,9 @@
       <eventcontext
          id="rect"
          style="fill:blue;"
-         usecurrent="1" />
+         usecurrent="1"
+         width="45115.8875456299"
+         height="11322.4982543927" />
       <eventcontext
          id="3dbox"
          style="stroke:none;stroke-linejoin:round;"
@@ -575,9 +577,11 @@
        id="textandfont" />
     <group
        id="transformation"
-       applyseparately="0" />
+       applyseparately="1"
+       rotateCounterClockwise="1" />
     <group
-       id="align" />
+       id="align"
+       objects-align-to="page" />
     <group
        id="xml"
        h="500"
@@ -605,9 +609,16 @@
        append_extension="1"
        path="">
       <group
-         id="exportarea" />
+         id="exportarea"
+         value="page" />
       <group
          id="defaultxdpi" />
+      <group
+         id="batchexportarea"
+         value="layer" />
+      <group
+         id="defaultdpi"
+         value="8.46666622161865" />
     </group>
     <group
        id="save_as"
@@ -625,7 +636,7 @@
     <group
        id="open"
        enable_preview="1"
-       path="" />
+       path="/run/user/1000/gvfs/smb-share:server=10.2.0.24,share=niklaus$/Knabenmusik/Logosusw/" />
     <group
        id="import"
        enable_preview="1"
@@ -633,7 +644,8 @@
        ask="1"
        ask_svg="1"
        link="link"
-       scale="optimizeSpeed" />
+       scale="auto"
+       import_mode_svg="include" />
     <group
        id="debug"
        redirect="0" />
@@ -641,7 +653,11 @@
        id="clonetiler"
        dotrace="0" />
     <group
-       id="gridtiler" />
+       id="gridtiler"
+       SpacingType="20"
+       AutoColSize="-20"
+       XPad="755.905511811024"
+       YPad="15" />
     <group
        id="extension-error"
        show-on-startup="0" />
@@ -676,7 +692,11 @@
        id="undo-history" />
     <group
        id="objects"
-       expand_to_layer="1" />
+       expand_to_layer="1"
+       layers_only="0" />
+    <group
+       id="layerProp"
+       addLayerPosition="0" />
   </group>
   <group
      id="printing">
@@ -689,7 +709,8 @@
   <group
      id="options"
      rotationlock="1"
-     onungroup="0">
+     onungroup="0"
+     onimport="0">
     <group
        id="renderingcache"
        size="512" />
@@ -945,7 +966,8 @@
        partialdynamic="0" />
     <group
        id="font"
-       unitType="2" />
+       unitType="2"
+       scaleLineHeightFromFontSIze="1" />
     <group
        id="boot"
        theme="colorful"
@@ -965,14 +987,22 @@
      id="extensions"
      org.inkscape.output.png.inkscape.png_bitdepth="99"
      org.inkscape.output.png.inkscape.png_compression="6"
-     org.inkscape.output.png.inkscape.png_antialias="2" />
+     org.inkscape.output.png.inkscape.png_antialias="2"
+     org.inkscape.input.eps.autorotate="All"
+     org.inkscape.template.paper.max="297.0"
+     org.inkscape.template.paper.min="210.0"
+     org.inkscape.template.paper.orientation="land"
+     org.inkscape.template.paper.unit="mm"
+     org.inkscape.print.eps.cairo.PSlevel="PS3"
+     org.inkscape.input.svg.scale="auto"
+     org.inkscape.input.svg.import_mode_svg="include" />
   <group
      id="desktop"
-     style="fill:#000000">
+     style="fill:#000000;-inkscape-font-specification:'Sans, Bold';font-family:Sans;font-size:4000.00219727px;stroke-width:37.79527559;stroke:#000000;font-weight:bold">
     <group
-       width="1499"
-       height="1216"
-       x="1600"
+       width="1431"
+       height="1107"
+       x="2004"
        y="34"
        maximized="1"
        fullscreen="0"

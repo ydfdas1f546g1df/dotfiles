@@ -122,43 +122,30 @@
 		<Setting name="Remote filelist column order">0,1,2,3,4,5</Setting>
 		<Setting name="Local filelist sortorder">0 0</Setting>
 		<Setting name="Remote filelist sortorder">0 0</Setting>
-		<Setting name="Sitemanager last selected">0/CHECKMK</Setting>
 		<Setting name="Time Format">0</Setting>
 		<Setting name="Date Format">0</Setting>
 		<Setting name="Default editor" platform="unix">0</Setting>
 		<Setting name="Icon theme">lone</Setting>
 		<Setting name="Comparison hide identical">1</Setting>
 		<Setting name="Greeting version">3.67.0</Setting>
-		<Setting name="Site Manager position">0 176 730 1096 591 </Setting>
-		<Setting name="Window position and size">0 216 574 1200 857 </Setting>
+		<Setting name="Site Manager position">0 1838 466 1096 591 </Setting>
+		<Setting name="Sitemanager last selected">0/Jellyfin</Setting>
+		<Setting name="Window position and size">0 1786 287 1200 857 </Setting>
 		<Setting name="Tab data" sensitive="1">
 			<Tabs>
-				<Tab connected="1">
-					<Host>172.16.0.2</Host>
-					<Port>22</Port>
-					<Protocol>1</Protocol>
-					<Type>0</Type>
-					<User>root</User>
-					<Pass encoding="base64">YnlMWmwibkckYjxg</Pass>
-					<Logontype>1</Logontype>
-					<EncodingType>Auto</EncodingType>
-					<BypassProxy>0</BypassProxy>
-					<Site></Site>
-					<RemotePath>1 0 3 etc 11 letsencrypt 4 live 15 kuelling-sh.com</RemotePath>
-					<LocalPath>/home/arch/Documents/Certs]\/</LocalPath>
-				</Tab>
 				<Tab connected="1" selected="1">
-					<Host>checkmk</Host>
+					<Host>10.2.0.18</Host>
 					<Port>22</Port>
 					<Protocol>1</Protocol>
 					<Type>0</Type>
 					<User>root</User>
-					<Pass encoding="base64">cm9vdG1rMjRjcnV4</Pass>
-					<Logontype>1</Logontype>
+					<Keyfile>/home/arch/.ssh/jellyfinRoot_ed25519</Keyfile>
+					<Logontype>5</Logontype>
 					<EncodingType>Auto</EncodingType>
 					<BypassProxy>0</BypassProxy>
-					<Site></Site>
-					<RemotePath>1 0 3 opt 3 omd 5 sites 3 KSH</RemotePath>
+					<Name>Jellyfin</Name>
+					<Site>0/Jellyfin</Site>
+					<RemotePath>1 0 3 opt 8 jellyfin 6 movies 5 Zohan</RemotePath>
 					<LocalPath>/home/arch/Downloads/</LocalPath>
 				</Tab>
 			</Tabs>

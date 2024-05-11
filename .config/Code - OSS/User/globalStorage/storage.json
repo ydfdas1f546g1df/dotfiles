@@ -8,7 +8,8 @@
             "file:///run/user/1000/gvfs/smb-share%3Aserver%3D10.2.0.24%2Cshare%3Ddokumentation/Cloud-Inits/OPenstackTest": "__default__profile__",
             "file:///mnt/NVME/Projects/OS": "__default__profile__",
             "file:///mnt/NVME/Projects/COBOLLEARN": "__default__profile__",
-            "file:///home/arch": "__default__profile__"
+            "file:///home/arch": "__default__profile__",
+            "file:///mnt/HDD2/ecamp3": "__default__profile__"
         },
         "emptyWindows": {}
     },
@@ -19,10 +20,7 @@
         "workspaces": [],
         "folders": [
             {
-                "folderUri": "file:///mnt/NVME/Projects/COBOLLEARN"
-            },
-            {
-                "folderUri": "file:///home/arch"
+                "folderUri": "file:///mnt/HDD2/ecamp3"
             }
         ],
         "emptyWindows": []
@@ -65,11 +63,21 @@
                             "items": [
                                 {
                                     "id": "workbench.action.reopenClosedEditor",
-                                    "label": "&&Reopen Closed Editor",
-                                    "enabled": false
+                                    "label": "&&Reopen Closed Editor"
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///mnt/HDD2/ecamp3",
+                                        "path": "/mnt/HDD2/ecamp3",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "/mnt/HDD2/ecamp3"
                                 },
                                 {
                                     "id": "openRecentFolder",
@@ -203,6 +211,13 @@
                         "label": "Share",
                         "submenu": {
                             "items": [
+                                {
+                                    "id": "github.copyVscodeDevLinkFile",
+                                    "label": "Copy vscode.dev Link"
+                                },
+                                {
+                                    "id": "vscode.menubar.separator"
+                                },
                                 {
                                     "id": "workbench.profiles.actions.exportProfile",
                                     "label": "Export Profile (Default)..."
@@ -367,6 +382,22 @@
                     {
                         "id": "editor.action.clipboardCopyAction",
                         "label": "&&Copy"
+                    },
+                    {
+                        "id": "submenuitem.MenubarCopy",
+                        "label": "Copy As",
+                        "submenu": {
+                            "items": [
+                                {
+                                    "id": "issue.copyGithubPermalink",
+                                    "label": "Copy GitHub Permalink"
+                                },
+                                {
+                                    "id": "issue.copyMarkdownGithubPermalink",
+                                    "label": "Copy GitHub Permalink as Markdown"
+                                }
+                            ]
+                        }
                     },
                     {
                         "id": "editor.action.clipboardPasteAction",
@@ -542,7 +573,8 @@
                                 },
                                 {
                                     "id": "workbench.action.togglePanel",
-                                    "label": "&&Panel"
+                                    "label": "&&Panel",
+                                    "checked": true
                                 },
                                 {
                                     "id": "toggle.toggleCustomTitleBar",
@@ -931,54 +963,45 @@
                                 },
                                 {
                                     "id": "workbench.action.focusThirdEditorGroup",
-                                    "label": "Group &&3",
-                                    "enabled": false
+                                    "label": "Group &&3"
                                 },
                                 {
                                     "id": "workbench.action.focusFourthEditorGroup",
-                                    "label": "Group &&4",
-                                    "enabled": false
+                                    "label": "Group &&4"
                                 },
                                 {
                                     "id": "workbench.action.focusFifthEditorGroup",
-                                    "label": "Group &&5",
-                                    "enabled": false
+                                    "label": "Group &&5"
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
                                 },
                                 {
                                     "id": "workbench.action.focusNextGroup",
-                                    "label": "&&Next Group",
-                                    "enabled": false
+                                    "label": "&&Next Group"
                                 },
                                 {
                                     "id": "workbench.action.focusPreviousGroup",
-                                    "label": "&&Previous Group",
-                                    "enabled": false
+                                    "label": "&&Previous Group"
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
                                 },
                                 {
                                     "id": "workbench.action.focusLeftGroup",
-                                    "label": "Group &&Left",
-                                    "enabled": false
+                                    "label": "Group &&Left"
                                 },
                                 {
                                     "id": "workbench.action.focusRightGroup",
-                                    "label": "Group &&Right",
-                                    "enabled": false
+                                    "label": "Group &&Right"
                                 },
                                 {
                                     "id": "workbench.action.focusAboveGroup",
-                                    "label": "Group &&Above",
-                                    "enabled": false
+                                    "label": "Group &&Above"
                                 },
                                 {
                                     "id": "workbench.action.focusBelowGroup",
-                                    "label": "Group &&Below",
-                                    "enabled": false
+                                    "label": "Group &&Below"
                                 }
                             ]
                         }
@@ -1081,8 +1104,7 @@
                     },
                     {
                         "id": "workbench.action.debug.configure",
-                        "label": "Open &&Configurations",
-                        "enabled": false
+                        "label": "Open &&Configurations"
                     },
                     {
                         "id": "debug.addConfiguration",
@@ -1182,8 +1204,7 @@
                     },
                     {
                         "id": "workbench.action.terminal.split",
-                        "label": "&&Split Terminal",
-                        "enabled": false
+                        "label": "&&Split Terminal"
                     },
                     {
                         "id": "vscode.menubar.separator"
@@ -1642,8 +1663,9 @@
                 "userSettingsLabel": "ctrl+k ctrl+down"
             },
             "workbench.action.quickOpen": {
-                "label": "Ctrl+P",
-                "userSettingsLabel": "ctrl+p"
+                "label": "Ctrl+E Ctrl+E",
+                "isNative": false,
+                "userSettingsLabel": "ctrl+e ctrl+e"
             },
             "workbench.action.showAllSymbols": {
                 "label": "Ctrl+T",
@@ -1775,14 +1797,14 @@
     },
     "windowsState": {
         "lastActiveWindow": {
-            "folder": "file:///mnt/NVME/Projects/COBOLLEARN",
-            "backupPath": "/home/arch/.config/Code - OSS/Backups/849c08ce8aded74d5cf901d896c7bc23",
+            "folder": "file:///mnt/HDD2/ecamp3",
+            "backupPath": "/home/arch/.config/Code - OSS/Backups/e2ad57b6538077fbb96aaa752ab85e69",
             "uiState": {
-                "mode": 1,
-                "x": 1600,
-                "y": 71,
-                "width": 2560,
-                "height": 1369
+                "mode": 0,
+                "x": 1223,
+                "y": 37,
+                "width": 2289,
+                "height": 1220
             }
         },
         "openedWindows": []
