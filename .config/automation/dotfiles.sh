@@ -27,9 +27,9 @@ git add . || {
 }
 
 # Commit the changes, only if there are any changes to commit
-if git diff-index --quiet HEAD --; then
-	echo "No changes to commit."
-else
+#if git diff-index --quiet HEAD --; then
+#	echo "No changes to commit."
+#else
 	git commit -m "$commitMessage" || {
 		echo "Failed to commit changes. Exiting."
 		exit 1
@@ -39,7 +39,7 @@ else
 		echo "Failed to push changes to remote. Exiting."
 		exit 1
 	}
-fi
+#fi
 
 # Remove the file after pushing
 rm -f pacmanQ crontab.bak || {
