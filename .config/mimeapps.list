@@ -29,6 +29,7 @@ image/heic=org.gnome.Loupe.desktop
 image/jxl=org.gnome.Loupe.desktop
 application/pdf=firefox.desktop
 x-scheme-handler/fleet=jetbrains-fleet.desktop
+text/calendar=org.mozilla.Thunderbird.desktop
 
 [Added Associations]
 text/plain=vim.desktop;
@@ -63,3 +64,5 @@ text/x-makefile=vim.desktop;
 application/pdf=firefox.desktop;adobe-reader-11.desktop;libreoffice-draw.desktop;
 application/x-x509-ca-cert=org.gnome.seahorse.Application.desktop;
 text/csv=vim.desktop;
+text/calendar=org.mozilla.Thunderbird.desktop;
+video/mp4=vlc.desktop;

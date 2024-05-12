@@ -1,8 +1,8 @@
 return {
-  {
-    "stevearc/conform.nvim",
-    opts = {},
-  },
+  -- {
+  --   "stevearc/conform.nvim",
+  --   opts = {},
+  -- },
   -- install with yarn or npm
   {
     "iamcco/markdown-preview.nvim",
@@ -31,11 +31,22 @@ return {
         "python",
         "query",
         "regex",
-        "tsx",
-        "typescript",
+        -- "tsx",
+        -- "typescript",
         "vim",
         "yaml",
+        "c",
+        -- "help",
       },
+      sync_install = false,
+      auto_install = true,
+      highlight = {
+        enable = true,
+      },
+      additional_vim_regex_highlighting = false,
+      --  diagnostics = { disable = { "missing-fields" } },
+      modules = {},
+      ignore_install = {},
     },
   },
   -- Use <tab> for completion and snippets (supertab)
@@ -96,4 +107,16 @@ return {
       },
     },
   },
+  {
+    "rose-pine/neovim",
+    config = function()
+      vim.cmd("colorscheme rose-pine")
+    end,
+  },
+  {
+    "mbbill/undotree",
+  },
+  -- {
+  --  "nvim-telescope/telescope.nvim",
+  -- },
 }
