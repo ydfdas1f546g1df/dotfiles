@@ -1,0 +1,87 @@
+:q
+main
+:l main
+:q
+show 4
+read "5"
+read "5"
+read "s"
+read
+:r
+:l main
+IO
+read "5"
+read 5
+read show 5
+show 5
+show 3
+read "4"
+:t circumference'
+:t circumference'
+:t circumference
+:l main
+:t circumference
+:t circumference 4.0
+circumference 4.0
+circumference r = 2 * pi * r
+circumference :: Float -> Float
+:t xcv
+xcv :: [Char]
+xcv :: String
+xcv :: [Char]
+let xcv = "asd"
+let xcv
+xcv :: [Char]
+:t "HEL"
+:t ['H', 'E', 'L']
+:t "HELLO!"
+:t "dd"
+:t 'ddd'
+:t 'd'
+:t ''
+:t
+rightTriangles
+let rightTriangles = [ (a,b,c) | c <- [1..10], b <- [1..c], a <- [1..b], a^2 + b^2 == c^2] 
+ghci> let rightTriangles = [ (a,b,c) | c <- [1..10], b <- [1..c], a <- [1..b], a^2 + b^2 == c^2] 
+triangles
+let triangles = [ (a,b,c) | c <- [1..10], b <- [1..10], a <- [1..10] ] 
+removeNonUppercase ['A' .. 'z']
+removeNonUppercase ["A", "z"]
+removeNonUppercase st = [ c | c <- st, c `elem` ['A'..'Z']] 
+boomBangs [9..14]
+boomBangs xs = [ if x < 10 then "BRIM!" else "BANG!" | x <- xs, even x] 
+boomBangs [9..14]
+boomBangs xs = [ if x < 10 then "BRIM!" else "BANG!" | x <- xs, even x, x /= 10] 
+boomBangs [9..14]
+boomBangs xs = [ if x < 10 then "BRIM!" else "BANG!" | x <- xs, odd x, x /= 10] 
+boomBangs [9..14]
+boomBangs xs = [ if x < 10 then "BRIM!" else "BANG!" | x <- xs, odd x] 
+boomBangs [9..14]
+boomBangs [1..100]
+boomBangs xs = [ if x < 10 then "BOOM!" else "BANG!" | x <- xs, odd x] 
+[x | x <- [50..100], x `mod` 7 == 3]
+[x*2 | x <- [1..10], x*2 >= 10]
+[x*2 | x <- [1..10], x*2 > 10]
+[x*2 | x <- [1..10], x*2 >= 10]
+[x*2 | x <- [1..10]]
+[x*2 | x <- [1..10]]. x
+[x*2 | x<-[1..10]].x
+[x*2 | x<-[1..10]].x
+take 10 (cycle [1,5,1])
+take 10 (cycle "LOOL")
+take 10 [1..]
+['A'..'z']
+['a'..'z']
+['a'..'Z']
+[1..20]
+quit
+return
+exit
+:q
+doubleMe 9
+:l main
+exit
+quit
+q
+succ 9
+2+15

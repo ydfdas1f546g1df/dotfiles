@@ -28,8 +28,9 @@ image/avif=org.gnome.Loupe.desktop
 image/heic=org.gnome.Loupe.desktop
 image/jxl=org.gnome.Loupe.desktop
 application/pdf=firefox.desktop
-x-scheme-handler/fleet=jetbrains-fleet.desktop
+x-scheme-handler/fleet=jetbrains-fleet-095c5cf6-2bf5-4f9b-95b8-577685e45a9c.desktop
 text/calendar=org.mozilla.Thunderbird.desktop
+application/vnd.debian.binary-package=7zFM.desktop
 
 [Added Associations]
 text/plain=vim.desktop;
@@ -66,3 +67,4 @@ application/x-x509-ca-cert=org.gnome.seahorse.Application.desktop;
 text/csv=vim.desktop;
 text/calendar=org.mozilla.Thunderbird.desktop;
 video/mp4=vlc.desktop;
+application/vnd.debian.binary-package=org.gnome.FileRoller.desktop;7zFM.desktop;
