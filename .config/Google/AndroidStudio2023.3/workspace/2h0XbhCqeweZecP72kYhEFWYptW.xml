@@ -1,0 +1,384 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="PlaneControllAPP" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="1.166" />
+        <entry key="app/src/main/res/drawable/ic_launcher_foreground.xml" value="1.166" />
+        <entry key="app/src/main/res/drawable/ic_menu_camera.xml" value="1.166" />
+        <entry key="app/src/main/res/drawable/ic_menu_gallery.xml" value="1.166" />
+        <entry key="app/src/main/res/drawable/ic_menu_slideshow.xml" value="1.166" />
+        <entry key="app/src/main/res/layout-sw600dp/activity_main.xml" value="0.3087287639132982" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.7209302325581395" />
+        <entry key="app/src/main/res/layout/app_bar_main.xml" value="0.7209302325581395" />
+        <entry key="app/src/main/res/layout/content_main.xml" value="0.9" />
+        <entry key="app/src/main/res/layout/fragment_home.xml" value="0.905608755129959" />
+        <entry key="app/src/main/res/layout/fragment_settings.xml" value="0.7209302325581395" />
+        <entry key="app/src/main/res/menu/activity_main_drawer.xml" value="0.28854166666666664" />
+        <entry key="app/src/main/res/menu/main.xml" value="0.7578659370725034" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="1.166" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="1.166" />
+      </map>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1" />
+  </component>
+  <component name="FileTypeUsageLocalSummary">
+    <fileType name="GitIgnore file">
+      <summary usageCount="1" lastUsed="1716732138092" />
+    </fileType>
+    <fileType name="JAVA">
+      <summary usageCount="1" lastUsed="1716735159155" />
+    </fileType>
+    <fileType name="Kotlin">
+      <summary usageCount="10" lastUsed="1716735216894" />
+    </fileType>
+    <fileType name="XML">
+      <summary usageCount="34" lastUsed="1716735283011" />
+    </fileType>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>nav_home</find>
+      <find>nav_host_fragment_content_main</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/app</dir>
+    </dirStrings>
+  </component>
+  <component name="FindInProjectScope">
+    <option name="directoryName" value="$PROJECT_DIR$/app" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/app/src/main/res/navigation/mobile_navigation.xml" />
+      <option value="$PROJECT_DIR$/app/src/main/java/com/KSH/planecontrollapp/ui/home/HomeViewModel.kt" />
+      <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" />
+      <option value="$PROJECT_DIR$/app/src/main/res/layout/app_bar_main.xml" />
+      <option value="$PROJECT_DIR$/app/src/main/res/menu/main.xml" />
+      <option value="$PROJECT_DIR$/app/src/main/res/menu/activity_main_drawer.xml" />
+      <option value="$PROJECT_DIR$/app/src/main/res/values/strings.xml" />
+      <option value="$PROJECT_DIR$/app/src/main/java/com/KSH/planecontrollapp/MainActivity.kt" />
+      <option value="$PROJECT_DIR$/app/src/main/res/layout/fragment_home.xml" />
+      <option value="$PROJECT_DIR$/app/src/main/res/layout/content_main.xml" />
+      <option value="$PROJECT_DIR$/app/src/main/java/com/KSH/planecontrollapp/ui/home/HomeFragment.kt" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="GitIgnore">
+      <summary usageCount="1" lastUsage="1716732138092" />
+    </language>
+    <language id="JAVA">
+      <summary usageCount="1" lastUsage="1716735159155" />
+    </language>
+    <language id="XML">
+      <summary usageCount="34" lastUsage="1716735283011" />
+    </language>
+    <language id="kotlin">
+      <summary usageCount="10" lastUsage="1716735216894" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="AndroidView" proportions="" version="1" />
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="PlaneControllAPP" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///mnt/HDD2/Projects/PlaneControllAPP}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+    </panes>
+  </component>
+  <component name="ReaderModeSettings">
+    <option name="enableVisualFormatting" value="false" />
+  </component>
+  <component name="RunConfigurationStartHistory">
+    <history>
+      <element setting="Android App.app" />
+    </history>
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="myTabStates">
+      <TerminalTabState tabName="Local" currentWorkingDirectory="$PROJECT_DIR$" commandHistoryFileName="PlaneControllAPP-history">
+        <shellCommand>
+          <arg value="/bin/bash" />
+          <arg value="-i" />
+        </shellCommand>
+      </TerminalTabState>
+      <TerminalTabState tabName="Local (2)" currentWorkingDirectory="$PROJECT_DIR$" commandHistoryFileName="PlaneControllAPP-history1">
+        <shellCommand>
+          <arg value="/bin/bash" />
+          <arg value="-i" />
+        </shellCommand>
+      </TerminalTabState>
+    </option>
+    <option name="mySelectedTabIndex" value="1" />
+  </component>
+  <component name="ToolWindowManager">
+    <layout>
+      <window_info id="Bookmarks" order="0" side_tool="true" />
+      <window_info id="Build Variants" order="1" side_tool="true" />
+      <window_info id="Structure" order="2" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="3" visible="true" weight="0.12480469" />
+      <window_info id="Resources Explorer" order="4" weight="0.3298828" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" show_stripe_button="false" weight="0.32980278" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Android Profiler" order="4" />
+      <window_info anchor="bottom" id="Logcat" order="5" />
+      <window_info anchor="bottom" id="App Quality Insights" order="6" />
+      <window_info anchor="bottom" id="Build" order="7" weight="0.32980278" />
+      <window_info anchor="bottom" id="TODO" order="8" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="Problems View" order="10" weight="0.35756028" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.5913075" />
+      <window_info anchor="bottom" id="Services" order="12" />
+      <window_info anchor="bottom" id="App Inspection" order="13" />
+      <window_info anchor="right" id="Layout Validation" />
+      <window_info anchor="right" id="StudioBot" order="0" />
+      <window_info anchor="right" id="Device Explorer" order="1" side_tool="true" />
+      <window_info anchor="right" id="Device Manager 2" order="2" />
+      <window_info anchor="right" id="App Links Assistant" order="3" />
+      <window_info anchor="right" id="Gradle" order="4" />
+      <window_info anchor="right" id="Notifications" order="5" weight="0.25" />
+      <window_info anchor="right" id="Running Devices" order="6" side_tool="true" />
+      <unified_weights bottom="0.5913075" left="0.12480469" />
+    </layout>
+    <layoutV2>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18066406" />
+      <window_info id="Commit" order="1" weight="0.25" />
+      <window_info id="Resources Explorer" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Terminal" order="1" />
+      <window_info anchor="bottom" id="Problems" order="2" />
+      <window_info anchor="bottom" id="Problems View" order="3" />
+      <window_info anchor="bottom" id="Logcat" order="4" />
+      <window_info anchor="bottom" id="App Quality Insights" order="5" />
+      <window_info anchor="bottom" id="Build" order="6" show_stripe_button="false" />
+      <window_info anchor="right" id="Layout Validation" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="1" weight="0.25" />
+      <window_info anchor="right" id="Device Manager" order="2" weight="0.25" />
+      <window_info anchor="right" id="Device Manager 2" order="3" weight="0.25" />
+      <window_info anchor="right" id="Running Devices" order="4" weight="0.25" />
+      <window_info anchor="right" id="StudioBot" order="5" weight="0.25" />
+      <window_info anchor="right" id="Assistant" order="6" visible="true" weight="0.18066406" />
+      <unified_weights left="0.18066406" right="0.18066406" />
+    </layoutV2>
+    <recentWindows>
+      <value>Terminal</value>
+      <value>Project</value>
+      <value>Run</value>
+      <value>Build</value>
+      <value>Problems View</value>
+      <value>Resources Explorer</value>
+      <value>Assistant</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2624" y="678" width="502" height="265" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1716732908857">
+      <screen x="1600" y="104" width="2560" height="1406" />
+    </state>
+    <state x="2624" y="678" width="502" height="265" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/1600.104.2560.1406/6080.0.1050.1680/0.310.1600.1200/4160.310.1920.1200@1600.104.2560.1406" timestamp="1716732908857" />
+    <state x="2686" y="647" width="983" height="329" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1716733843742">
+      <screen x="1600" y="104" width="2560" height="1406" />
+    </state>
+    <state x="2686" y="647" width="983" height="329" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/1600.104.2560.1406/6080.0.1050.1680/0.310.1600.1200/4160.310.1920.1200@1600.104.2560.1406" timestamp="1716733843742" />
+    <state x="2622" y="563" width="515" height="495" key="AndroidCreateXmlResourceDialog" timestamp="1716735480835">
+      <screen x="1600" y="104" width="2560" height="1406" />
+    </state>
+    <state x="2622" y="563" width="515" height="495" key="AndroidCreateXmlResourceDialog/1600.104.2560.1406/6080.0.1050.1680/0.310.1600.1200/4160.310.1920.1200@1600.104.2560.1406" timestamp="1716735480835" />
+    <state x="2637" y="550" width="476" height="521" key="FileChooserDialogImpl" timestamp="1716732904753">
+      <screen x="1600" y="104" width="2560" height="1406" />
+    </state>
+    <state x="2637" y="550" width="476" height="521" key="FileChooserDialogImpl/1600.104.2560.1406/6080.0.1050.1680/0.310.1600.1200/4160.310.1920.1200@1600.104.2560.1406" timestamp="1716732904753" />
+    <state width="2514" height="423" key="GridCell.Tab.0.bottom" timestamp="1717007126073">
+      <screen x="1600" y="104" width="2560" height="1406" />
+    </state>
+    <state width="2514" height="423" key="GridCell.Tab.0.bottom/1600.104.2560.1406/6080.0.1050.1680/0.310.1600.1200/4160.310.1920.1200@1600.104.2560.1406" timestamp="1717007126073" />
+    <state width="2514" height="423" key="GridCell.Tab.0.center" timestamp="1717007126073">
+      <screen x="1600" y="104" width="2560" height="1406" />
+    </state>
+    <state width="2514" height="423" key="GridCell.Tab.0.center/1600.104.2560.1406/6080.0.1050.1680/0.310.1600.1200/4160.310.1920.1200@1600.104.2560.1406" timestamp="1717007126073" />
+    <state width="2514" height="423" key="GridCell.Tab.0.left" timestamp="1717007126073">
+      <screen x="1600" y="104" width="2560" height="1406" />
+    </state>
+    <state width="2514" height="423" key="GridCell.Tab.0.left/1600.104.2560.1406/6080.0.1050.1680/0.310.1600.1200/4160.310.1920.1200@1600.104.2560.1406" timestamp="1717007126073" />
+    <state width="2514" height="423" key="GridCell.Tab.0.right" timestamp="1717007126073">
+      <screen x="1600" y="104" width="2560" height="1406" />
+    </state>
+    <state width="2514" height="423" key="GridCell.Tab.0.right/1600.104.2560.1406/6080.0.1050.1680/0.310.1600.1200/4160.310.1920.1200@1600.104.2560.1406" timestamp="1717007126073" />
+    <state x="3499" y="1350" width="640" height="128" key="ProcessPopupWindow" timestamp="1716732418301">
+      <screen x="1600" y="104" width="2560" height="1406" />
+    </state>
+    <state x="3499" y="1350" width="640" height="128" key="ProcessPopupWindow/1600.104.2560.1406/6080.0.1050.1680/0.310.1600.1200/4160.310.1920.1200@1600.104.2560.1406" timestamp="1716732418301" />
+    <state x="2384" y="442" width="1022" height="737" key="SettingsEditor" timestamp="1716732820522">
+      <screen x="1600" y="104" width="2560" height="1406" />
+    </state>
+    <state x="2384" y="442" width="1022" height="737" key="SettingsEditor/1600.104.2560.1406/6080.0.1050.1680/0.310.1600.1200/4160.310.1920.1200@1600.104.2560.1406" timestamp="1716732820522" />
+    <state x="2635" y="239" width="600" height="780" key="find.popup" timestamp="1716735159158">
+      <screen x="1600" y="104" width="2560" height="1406" />
+    </state>
+    <state x="2635" y="239" width="600" height="780" key="find.popup/1600.104.2560.1406/6080.0.1050.1680/0.310.1600.1200/4160.310.1920.1200@1600.104.2560.1406" timestamp="1716735159158" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/KSH/planecontrollapp/ui/home/HomeViewModel.kt">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state>
+          <editor-state relative-caret-position="217">
+            <caret line="9" column="27" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
+          </editor-state>
+          <multi-preview-state selected="">
+            <representations>
+              <list />
+            </representations>
+          </multi-preview-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout-sw600dp/activity_main.xml">
+      <provider selected="true" editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="17" column="44" lean-forward="true" selection-start-line="17" selection-start-column="44" selection-end-line="17" selection-end-column="44" />
+        </state>
+      </provider>
+      <provider editor-type-id="android-manifest" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/ic_launcher_background.xml">
+      <provider selected="true" editor-type-id="android-preview-designer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/ic_launcher_foreground.xml">
+      <provider selected="true" editor-type-id="android-preview-designer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/ic_menu_camera.xml">
+      <provider selected="true" editor-type-id="android-preview-designer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/ic_menu_gallery.xml">
+      <provider selected="true" editor-type-id="android-preview-designer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/ic_menu_slideshow.xml">
+      <provider selected="true" editor-type-id="android-preview-designer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
+      <provider selected="true" editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/app_bar_main.xml">
+      <provider selected="true" editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml">
+      <provider selected="true" editor-type-id="android-preview-designer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml">
+      <provider selected="true" editor-type-id="android-preview-designer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/navigation/mobile_navigation.xml">
+      <provider selected="true" editor-type-id="nav-designer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/colors.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="310">
+          <caret line="10" column="41" selection-start-line="10" selection-start-column="41" selection-end-line="10" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/dimens.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="7" column="12" lean-forward="true" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/menu/activity_main_drawer.xml">
+      <provider selected="true" editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/menu/main.xml">
+      <provider selected="true" editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_settings.xml">
+      <provider selected="true" editor-type-id="android-designer2" />
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.appcompat/appcompat/1.6.1/ace9a78b961165396147e8691faa18c1b0e48e20/appcompat-1.6.1-sources.jar!/androidx/appcompat/app/AppCompatActivity.java">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state>
+          <editor-state relative-caret-position="264">
+            <caret line="465" column="19" selection-start-line="465" selection-start-column="19" selection-end-line="465" selection-end-column="19" />
+          </editor-state>
+          <multi-preview-state selected="">
+            <representations>
+              <list />
+            </representations>
+          </multi-preview-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/KSH/planecontrollapp/MainActivity.kt">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state>
+          <editor-state relative-caret-position="219">
+            <caret line="43" selection-start-line="43" selection-end-line="43" />
+          </editor-state>
+          <multi-preview-state selected="">
+            <representations>
+              <list />
+            </representations>
+          </multi-preview-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_home.xml">
+      <provider selected="true" editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/content_main.xml">
+      <provider selected="true" editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/KSH/planecontrollapp/ui/home/HomeFragment.kt">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state>
+          <editor-state relative-caret-position="190">
+            <caret line="30" column="74" selection-start-line="30" selection-start-column="74" selection-end-line="30" selection-end-column="74" />
+          </editor-state>
+          <multi-preview-state selected="">
+            <representations>
+              <list />
+            </representations>
+          </multi-preview-state>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

@@ -1,4 +1,10 @@
 :q
+boomBangs ['a'..'z']
+boomBangs ["a".."z"]
+boomBangs [9..]
+boomBangs [9..14]
+boomBangs xs = [ if x < 10 then "BRIM!" else "BANG!" | x <- xs, odd x] 
+:q
 main
 :l main
 :q

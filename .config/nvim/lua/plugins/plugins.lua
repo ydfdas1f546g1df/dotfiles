@@ -119,4 +119,5 @@ return {
   -- {
   --  "nvim-telescope/telescope.nvim",
   -- },
+  { "wakatime/vim-wakatime", lazy = false },
 }

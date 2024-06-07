@@ -1,0 +1,58 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="additionalInfo">
+      <map>
+        <entry key="/mnt/HDD2/Projects/PlaneControllAPP2">
+          <value>
+            <RecentProjectMetaInfo frameTitle="PlaneControllAPP [/mnt/HDD2/Projects/PlaneControllAPP2]" projectWorkspaceId="2h9X1XBMxxFsxCH9v3jzQRaigVb">
+              <option name="activationTimestamp" value="1717007127449" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="AI-233.14808.21.2331.11842104" />
+              <option name="buildTimestamp" value="1715734140000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="3" />
+              </option>
+              <frame x="2180" y="307" width="1400" height="1000" />
+              <option name="productionCode" value="AI" />
+              <option name="projectOpenTimestamp" value="1717007051596" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="/mnt/HDD2/Projects/PlaneControllAPP">
+          <value>
+            <RecentProjectMetaInfo frameTitle="PlaneControllAPP – AppCompatActivity.java [Gradle: androidx.appcompat:appcompat:1.6.1@aar]" opened="true" projectWorkspaceId="2h9X83Rseud54amQrYjyvsNuQBw">
+              <option name="activationTimestamp" value="1717174319327" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="AI-233.14808.21.2331.11842104" />
+              <option name="buildTimestamp" value="1715734140000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="2" />
+              </option>
+              <frame x="2003" y="104" width="1920" height="1054" extendedState="6" />
+              <option name="productionCode" value="AI" />
+              <option name="projectOpenTimestamp" value="1717007103725" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="/mnt/HDD2/Projects/planeControllAPP">
+          <value>
+            <RecentProjectMetaInfo frameTitle="planeControllAPP – MainActivity.java [planeControllAPP.app.main]" projectWorkspaceId="2h9Y1iBAISDf0g7UjCLGAkKRMsp">
+              <option name="activationTimestamp" value="1717174313135" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="AI-233.14808.21.2331.11842104" />
+              <option name="buildTimestamp" value="1715734140000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="4" />
+              </option>
+              <frame x="2048" y="104" width="1400" height="1000" extendedState="6" />
+              <option name="productionCode" value="AI" />
+              <option name="projectOpenTimestamp" value="1717007546898" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastOpenedProject" value="/mnt/HDD2/Projects/PlaneControllAPP" />
+    <option name="lastProjectLocation" value="/mnt/HDD2/Projects" />
+  </component>
+</application>

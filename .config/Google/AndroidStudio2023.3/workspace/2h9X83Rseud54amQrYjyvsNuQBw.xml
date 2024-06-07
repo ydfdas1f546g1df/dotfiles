@@ -1,0 +1,163 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="PlaneControllAPP" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file>
+        <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.appcompat/appcompat/1.6.1/ace9a78b961165396147e8691faa18c1b0e48e20/appcompat-1.6.1-sources.jar!/androidx/appcompat/app/AppCompatActivity.java">
+          <provider selected="true" editor-type-id="android-source-code">
+            <state>
+              <editor-state relative-caret-position="405">
+                <caret line="101" column="60" selection-start-line="101" selection-start-column="52" selection-end-line="101" selection-end-column="60" />
+              </editor-state>
+              <multi-preview-state selected="">
+                <representations>
+                  <list />
+                </representations>
+              </multi-preview-state>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary">
+    <fileType name="GitIgnore file">
+      <summary usageCount="2" lastUsed="1717007167198" />
+    </fileType>
+    <fileType name="JAVA">
+      <summary usageCount="3" lastUsed="1717009411341" />
+    </fileType>
+    <fileType name="XML">
+      <summary usageCount="1" lastUsed="1717007171421" />
+    </fileType>
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/.gitignore" />
+      <option value="$PROJECT_DIR$/app/src/main/java/com/ksh/planecontrollapp/MainActivity.java" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="GitIgnore">
+      <summary usageCount="2" lastUsage="1717007167198" />
+    </language>
+    <language id="JAVA">
+      <summary usageCount="3" lastUsage="1717009411342" />
+    </language>
+    <language id="XML">
+      <summary usageCount="1" lastUsage="1717007171421" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane" />
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+    </panes>
+  </component>
+  <component name="ReaderModeSettings">
+    <option name="enableVisualFormatting" value="false" />
+  </component>
+  <component name="RunConfigurationStartHistory">
+    <history>
+      <element setting="Android App.Main" />
+    </history>
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="myTabStates">
+      <TerminalTabState tabName="Local" currentWorkingDirectory="$PROJECT_DIR$" commandHistoryFileName="PlaneControllAPP-history2">
+        <shellCommand>
+          <arg value="/bin/bash" />
+          <arg value="-i" />
+        </shellCommand>
+      </TerminalTabState>
+    </option>
+  </component>
+  <component name="ToolWindowManager">
+    <layout>
+      <window_info id="Bookmarks" order="0" side_tool="true" />
+      <window_info id="Build Variants" order="1" side_tool="true" />
+      <window_info id="Structure" order="2" side_tool="true" />
+      <window_info id="Resources Explorer" order="3" />
+      <window_info id="Welcome to GitHub Copilot" order="4" />
+      <window_info active="true" content_ui="combo" id="Project" order="4" visible="true" weight="0.24902344" />
+      <window_info anchor="bottom" id="Version Control" order="0" weight="0.32980278" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32980278" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Android Profiler" order="4" />
+      <window_info anchor="bottom" id="Logcat" order="5" />
+      <window_info anchor="bottom" id="App Quality Insights" order="6" />
+      <window_info anchor="bottom" id="Build" order="7" />
+      <window_info anchor="bottom" id="TODO" order="8" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="Problems View" order="10" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32980278" />
+      <window_info anchor="bottom" id="Services" order="12" />
+      <window_info anchor="bottom" id="App Inspection" order="13" />
+      <window_info anchor="right" id="StudioBot" order="0" />
+      <window_info anchor="right" id="Device Explorer" order="1" side_tool="true" />
+      <window_info anchor="right" id="Device Manager 2" order="2" />
+      <window_info anchor="right" id="App Links Assistant" order="3" />
+      <window_info anchor="right" id="Gradle" order="4" />
+      <window_info anchor="right" id="Notifications" order="5" weight="0.25" />
+      <window_info anchor="right" id="Key Promoter X" order="6" />
+      <window_info anchor="right" id="github.copilotToolWindow" order="6" />
+      <window_info anchor="right" id="GitHub Copilot Chat" order="6" />
+      <window_info anchor="right" id="Running Devices" order="6" side_tool="true" visible="true" weight="0.29003906" />
+      <unified_weights bottom="0.32980278" left="0.24902344" right="0.29003906" />
+    </layout>
+    <recentWindows>
+      <value>Project</value>
+      <value>Run</value>
+      <value>Version Control</value>
+      <value>Terminal</value>
+      <value>Running Devices</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2475" y="468" width="917" height="684" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1717007247941">
+      <screen x="1600" y="104" width="2560" height="1406" />
+    </state>
+    <state x="2475" y="468" width="917" height="684" key="#com.intellij.execution.impl.EditConfigurationsDialog/1600.104.2560.1406/6080.0.1050.1680/0.310.1600.1200/4160.310.1920.1200@1600.104.2560.1406" timestamp="1717007247941" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/.idea/.gitignore" />
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-6510" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/ksh/planecontrollapp/MainActivity.java" />
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.appcompat/appcompat/1.6.1/ace9a78b961165396147e8691faa18c1b0e48e20/appcompat-1.6.1-sources.jar!/androidx/appcompat/app/AppCompatActivity.java">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state>
+          <editor-state relative-caret-position="405">
+            <caret line="101" column="60" selection-start-line="101" selection-start-column="52" selection-end-line="101" selection-end-column="60" />
+          </editor-state>
+          <multi-preview-state selected="">
+            <representations>
+              <list />
+            </representations>
+          </multi-preview-state>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

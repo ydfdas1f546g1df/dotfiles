@@ -684,6 +684,8 @@ jbigkit
 jdk-openjdk
 jemalloc
 jetbrains-toolbox
+jiggle
+jiggle-debug
 jq
 js115
 json-c
@@ -1791,6 +1793,7 @@ taglib
 tali
 talloc
 tar
+tcl
 tcsh
 tdb
 teamviewer
@@ -1805,6 +1808,7 @@ texinfo
 thin-provisioning-tools
 thunar
 thunderbird
+tk
 totem
 totem-pl-parser
 tpm2-tss
@@ -1953,6 +1957,7 @@ xdg-desktop-portal-gtk
 xdg-user-dirs
 xdg-user-dirs-gtk
 xdg-utils
+xdotool
 xf86-input-libinput
 xfconf
 xkeyboard-config

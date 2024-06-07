@@ -1,0 +1,454 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="planeControllAPP" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.9" />
+      </map>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
+          <provider selected="true" editor-type-id="android-designer2" />
+        </entry>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/ksh/planecontrollapp/MainActivity.java">
+          <provider selected="true" editor-type-id="android-source-code">
+            <state>
+              <editor-state relative-caret-position="600">
+                <caret line="54" selection-start-line="54" selection-end-line="54" />
+              </editor-state>
+              <multi-preview-state selected="">
+                <representations>
+                  <list />
+                </representations>
+              </multi-preview-state>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/ksh/planecontrollapp/Telnet.java">
+          <provider selected="true" editor-type-id="android-source-code">
+            <state>
+              <editor-state relative-caret-position="806">
+                <caret line="26" column="36" lean-forward="true" selection-start-line="26" selection-start-column="36" selection-end-line="26" selection-end-column="36" />
+              </editor-state>
+              <multi-preview-state selected="">
+                <representations>
+                  <list />
+                </representations>
+              </multi-preview-state>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/ksh/planecontrollapp/TelnetConnectionCallback.java">
+          <provider selected="true" editor-type-id="android-source-code">
+            <state>
+              <editor-state relative-caret-position="155">
+                <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+              </editor-state>
+              <multi-preview-state selected="">
+                <representations>
+                  <list />
+                </representations>
+              </multi-preview-state>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/cpp/test.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="279">
+              <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+              <folding>
+                <element signature="e#0#16#0" expanded="true" />
+                <element signature="e#0#16#0" expanded="true" />
+                <element signature="e#95#140#0" expanded="true" />
+                <element signature="e#95#140#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/cpp/CMakeLists.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1085">
+              <caret line="35" column="43" selection-start-line="35" selection-start-column="43" selection-end-line="35" selection-end-column="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/cpp/native-lib.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-line="1" selection-end-column="17" />
+              <folding>
+                <element signature="e#0#16#0" expanded="true" />
+                <element signature="e#73#129#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary">
+    <fileType name="CMakeLists.txt">
+      <summary usageCount="3" lastUsed="1717009409135" />
+    </fileType>
+    <fileType name="JAVA">
+      <summary usageCount="4" lastUsed="1717010337255" />
+    </fileType>
+    <fileType name="Kotlin">
+      <summary usageCount="2" lastUsed="1717008354770" />
+    </fileType>
+    <fileType name="ObjectiveC">
+      <summary usageCount="6" lastUsed="1717009409264" />
+    </fileType>
+    <fileType name="XML">
+      <summary usageCount="2" lastUsed="1717009408583" />
+    </fileType>
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/app/src/main/cpp/CMakeLists.txt" />
+      <option value="$PROJECT_DIR$/app/src/main/cpp/native-lib.cpp" />
+      <option value="$PROJECT_DIR$/app/src/main/cpp/test.cpp" />
+      <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" />
+      <option value="$PROJECT_DIR$/app/src/main/java/com/ksh/planecontrollapp/TelnetConnectionCallback.java" />
+      <option value="$PROJECT_DIR$/app/src/main/java/com/ksh/planecontrollapp/telnet.java" />
+      <option value="$PROJECT_DIR$/app/src/main/java/com/ksh/planecontrollapp/MainActivity.java" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="CMake">
+      <summary usageCount="3" lastUsage="1717009409135" />
+    </language>
+    <language id="JAVA">
+      <summary usageCount="4" lastUsage="1717010337256" />
+    </language>
+    <language id="ObjectiveC">
+      <summary usageCount="6" lastUsage="1717009409264" />
+    </language>
+    <language id="XML">
+      <summary usageCount="2" lastUsage="1717009408583" />
+    </language>
+    <language id="kotlin">
+      <summary usageCount="2" lastUsage="1717008354770" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="planeControllAPP" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///mnt/HDD2/Projects/planeControllAPP}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="planeControllAPP" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///mnt/HDD2/Projects/planeControllAPP}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///mnt/HDD2/Projects/planeControllAPP/app}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="planeControllAPP" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///mnt/HDD2/Projects/planeControllAPP}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///mnt/HDD2/Projects/planeControllAPP/app}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///mnt/HDD2/Projects/planeControllAPP/app/src}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="planeControllAPP" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///mnt/HDD2/Projects/planeControllAPP}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///mnt/HDD2/Projects/planeControllAPP/app}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///mnt/HDD2/Projects/planeControllAPP/app/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///mnt/HDD2/Projects/planeControllAPP/app/src/main}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="planeControllAPP" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///mnt/HDD2/Projects/planeControllAPP}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///mnt/HDD2/Projects/planeControllAPP/app}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///mnt/HDD2/Projects/planeControllAPP/app/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///mnt/HDD2/Projects/planeControllAPP/app/src/main}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///mnt/HDD2/Projects/planeControllAPP/app/src/main/java}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="planeControllAPP" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///mnt/HDD2/Projects/planeControllAPP}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///mnt/HDD2/Projects/planeControllAPP/app}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///mnt/HDD2/Projects/planeControllAPP/app/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///mnt/HDD2/Projects/planeControllAPP/app/src/main}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///mnt/HDD2/Projects/planeControllAPP/app/src/main/java}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///mnt/HDD2/Projects/planeControllAPP/app/src/main/java/com/ksh/planecontrollapp}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="planeControllAPP" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///mnt/HDD2/Projects/planeControllAPP}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///mnt/HDD2/Projects/planeControllAPP/app}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///mnt/HDD2/Projects/planeControllAPP/app/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///mnt/HDD2/Projects/planeControllAPP/app/src/main}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///mnt/HDD2/Projects/planeControllAPP/app/src/main/res}" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="AndroidView">
+        <subPane>
+          <expand>
+            <path>
+              <item name="planeControllAPP" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+            </path>
+            <path>
+              <item name="planeControllAPP" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+            </path>
+            <path>
+              <item name="planeControllAPP" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="dir{file:///mnt/HDD2/Projects/planeControllAPP/app/src/main/java/com/ksh/planecontrollapp}" type="cbb59c9e:AndroidPsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="planeControllAPP" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="cpp" type="569ca2fa:AndroidJniFolderNode" />
+            </path>
+            <path>
+              <item name="planeControllAPP" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="res" type="d4f16f75:AndroidResFolderNode" />
+            </path>
+            <path>
+              <item name="planeControllAPP" type="1abcf292:AndroidViewProjectNode" />
+              <item name="Gradle Scripts" type="ae0cef3a:AndroidBuildScriptsGroupNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="ReaderModeSettings">
+    <option name="enableVisualFormatting" value="false" />
+  </component>
+  <component name="RunConfigurationStartHistory">
+    <history>
+      <element setting="Android App.app" />
+    </history>
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="myTabStates">
+      <TerminalTabState tabName="Local" currentWorkingDirectory="$PROJECT_DIR$" commandHistoryFileName="planeControllAPP-history">
+        <shellCommand>
+          <arg value="/bin/bash" />
+          <arg value="-i" />
+        </shellCommand>
+      </TerminalTabState>
+    </option>
+  </component>
+  <component name="ToolWindowManager">
+    <layout>
+      <window_info id="Bookmarks" order="0" side_tool="true" />
+      <window_info id="Build Variants" order="1" side_tool="true" />
+      <window_info id="Structure" order="2" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="3" visible="true" weight="0.13574219" />
+      <window_info id="Resources Explorer" order="4" />
+      <window_info id="Welcome to GitHub Copilot" order="5" weight="0.3298828" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" show_stripe_button="false" weight="0.022279035" />
+      <window_info anchor="bottom" id="Debug" order="3" show_stripe_button="false" weight="0.27355734" />
+      <window_info anchor="bottom" id="Android Profiler" order="4" />
+      <window_info anchor="bottom" id="Logcat" order="5" />
+      <window_info anchor="bottom" id="App Quality Insights" order="6" />
+      <window_info anchor="bottom" id="Build" order="7" />
+      <window_info anchor="bottom" id="TODO" order="8" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="Problems View" order="10" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32980278" />
+      <window_info anchor="bottom" id="Services" order="12" />
+      <window_info anchor="bottom" id="App Inspection" order="13" />
+      <window_info anchor="right" id="Layout Validation" />
+      <window_info anchor="right" id="StudioBot" order="0" />
+      <window_info anchor="right" id="Device Explorer" order="1" side_tool="true" />
+      <window_info anchor="right" id="Device Manager 2" order="2" />
+      <window_info anchor="right" id="App Links Assistant" order="3" />
+      <window_info anchor="right" id="Gradle" order="4" />
+      <window_info anchor="right" id="Notifications" order="5" weight="0.25" />
+      <window_info anchor="right" id="Key Promoter X" order="6" />
+      <window_info anchor="right" id="github.copilotToolWindow" order="6" />
+      <window_info anchor="right" id="GitHub Copilot Chat" order="6" />
+      <window_info anchor="right" id="Running Devices" order="6" side_tool="true" visible="true" weight="0.3298828" />
+      <unified_weights bottom="0.27355734" left="0.13574219" right="0.3298828" />
+    </layout>
+    <recentWindows>
+      <value>Debug</value>
+      <value>Running Devices</value>
+      <value>Run</value>
+      <value>Project</value>
+      <value>Welcome to GitHub Copilot</value>
+      <value>Terminal</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="2514" height="346" key="GridCell.Tab.0.bottom" timestamp="1717174316310">
+      <screen x="1600" y="104" width="2560" height="1406" />
+    </state>
+    <state width="2514" height="346" key="GridCell.Tab.0.bottom/1600.104.2560.1406/6080.0.1050.1680/0.310.1600.1200/4160.310.1920.1200@1600.104.2560.1406" timestamp="1717174316310" />
+    <state width="2514" height="346" key="GridCell.Tab.0.center" timestamp="1717174316310">
+      <screen x="1600" y="104" width="2560" height="1406" />
+    </state>
+    <state width="2514" height="346" key="GridCell.Tab.0.center/1600.104.2560.1406/6080.0.1050.1680/0.310.1600.1200/4160.310.1920.1200@1600.104.2560.1406" timestamp="1717174316310" />
+    <state width="2514" height="346" key="GridCell.Tab.0.left" timestamp="1717174316310">
+      <screen x="1600" y="104" width="2560" height="1406" />
+    </state>
+    <state width="2514" height="346" key="GridCell.Tab.0.left/1600.104.2560.1406/6080.0.1050.1680/0.310.1600.1200/4160.310.1920.1200@1600.104.2560.1406" timestamp="1717174316310" />
+    <state width="2514" height="346" key="GridCell.Tab.0.right" timestamp="1717174316310">
+      <screen x="1600" y="104" width="2560" height="1406" />
+    </state>
+    <state width="2514" height="346" key="GridCell.Tab.0.right/1600.104.2560.1406/6080.0.1050.1680/0.310.1600.1200/4160.310.1920.1200@1600.104.2560.1406" timestamp="1717174316310" />
+    <state width="2514" height="346" key="GridCell.Tab.1.bottom" timestamp="1717174316310">
+      <screen x="1600" y="104" width="2560" height="1406" />
+    </state>
+    <state width="2514" height="346" key="GridCell.Tab.1.bottom/1600.104.2560.1406/6080.0.1050.1680/0.310.1600.1200/4160.310.1920.1200@1600.104.2560.1406" timestamp="1717174316310" />
+    <state width="2514" height="346" key="GridCell.Tab.1.center" timestamp="1717174316310">
+      <screen x="1600" y="104" width="2560" height="1406" />
+    </state>
+    <state width="2514" height="346" key="GridCell.Tab.1.center/1600.104.2560.1406/6080.0.1050.1680/0.310.1600.1200/4160.310.1920.1200@1600.104.2560.1406" timestamp="1717174316310" />
+    <state width="2514" height="346" key="GridCell.Tab.1.left" timestamp="1717174316310">
+      <screen x="1600" y="104" width="2560" height="1406" />
+    </state>
+    <state width="2514" height="346" key="GridCell.Tab.1.left/1600.104.2560.1406/6080.0.1050.1680/0.310.1600.1200/4160.310.1920.1200@1600.104.2560.1406" timestamp="1717174316310" />
+    <state width="2514" height="346" key="GridCell.Tab.1.right" timestamp="1717174316310">
+      <screen x="1600" y="104" width="2560" height="1406" />
+    </state>
+    <state width="2514" height="346" key="GridCell.Tab.1.right/1600.104.2560.1406/6080.0.1050.1680/0.310.1600.1200/4160.310.1920.1200@1600.104.2560.1406" timestamp="1717174316310" />
+    <state x="3499" y="1352" width="640" height="126" key="ProcessPopupWindow" timestamp="1717007698147">
+      <screen x="1600" y="104" width="2560" height="1406" />
+    </state>
+    <state x="3499" y="1352" width="640" height="126" key="ProcessPopupWindow/1600.104.2560.1406/6080.0.1050.1680/0.310.1600.1200/4160.310.1920.1200@1600.104.2560.1406" timestamp="1717007698147" />
+    <state x="2369" y="442" key="SettingsEditor" timestamp="1717009460164">
+      <screen x="1600" y="104" width="2560" height="1406" />
+    </state>
+    <state x="2369" y="442" key="SettingsEditor/1600.104.2560.1406/6080.0.1050.1680/0.310.1600.1200/4160.310.1920.1200@1600.104.2560.1406" timestamp="1717009460164" />
+    <state x="2543" y="424" key="search.everywhere.popup" timestamp="1717009882713">
+      <screen x="1600" y="104" width="2560" height="1406" />
+    </state>
+    <state x="2543" y="424" key="search.everywhere.popup/1600.104.2560.1406/6080.0.1050.1680/0.310.1600.1200/4160.310.1920.1200@1600.104.2560.1406" timestamp="1717009882713" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app/src/main/cpp/test.h" />
+    <entry file="file://$PROJECT_DIR$/build.gradle.kts">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/build.gradle.kts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-179" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/cpp/test.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="279">
+          <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+          <folding>
+            <element signature="e#0#16#0" expanded="true" />
+            <element signature="e#0#16#0" expanded="true" />
+            <element signature="e#95#140#0" expanded="true" />
+            <element signature="e#95#140#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/cpp/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1085">
+          <caret line="35" column="43" selection-start-line="35" selection-start-column="43" selection-end-line="35" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/cpp/native-lib.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="1" selection-end-column="17" />
+          <folding>
+            <element signature="e#0#16#0" expanded="true" />
+            <element signature="e#73#129#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
+      <provider selected="true" editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/ksh/planecontrollapp/TelnetConnectionCallback.java">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state>
+          <editor-state relative-caret-position="155">
+            <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+          </editor-state>
+          <multi-preview-state selected="">
+            <representations>
+              <list />
+            </representations>
+          </multi-preview-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/ksh/planecontrollapp/Telnet.java">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state>
+          <editor-state relative-caret-position="806">
+            <caret line="26" column="36" lean-forward="true" selection-start-line="26" selection-start-column="36" selection-end-line="26" selection-end-column="36" />
+          </editor-state>
+          <multi-preview-state selected="">
+            <representations>
+              <list />
+            </representations>
+          </multi-preview-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/ksh/planecontrollapp/MainActivity.java">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state>
+          <editor-state relative-caret-position="600">
+            <caret line="54" selection-start-line="54" selection-end-line="54" />
+          </editor-state>
+          <multi-preview-state selected="">
+            <representations>
+              <list />
+            </representations>
+          </multi-preview-state>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

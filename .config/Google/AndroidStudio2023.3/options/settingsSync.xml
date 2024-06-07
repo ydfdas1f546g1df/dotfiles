@@ -1,0 +1,23 @@
+<application>
+  <component name="SettingsSyncSettings">
+    <option name="disabledSubcategories">
+      <map>
+        <entry key="PLUGINS">
+          <value>
+            <list>
+              <option value="Jenkins Control Plugin" />
+              <option value="com.github.b3er.idea.plugins.arc.browser" />
+              <option value="com.github.camork.fileExpander" />
+              <option value="com.github.mikesafonov.jenkins-linter-idea-plugin" />
+              <option value="com.jetbrains.plugins.ini4idea" />
+              <option value="com.nasmlanguage" />
+              <option value="com.vermouthx.idea" />
+              <option value="dev.blachut.svelte.lang" />
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="migrationFromOldStorageChecked" value="true" />
+  </component>
+</application>

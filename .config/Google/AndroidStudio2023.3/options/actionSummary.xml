@@ -1,0 +1,208 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="$Copy">
+      <i c="3" l="1717008486000" />
+    </e>
+    <e n="$Delete">
+      <i c="20" l="1717009640997" />
+    </e>
+    <e n="$Paste">
+      <i c="4" l="1717008486204" />
+    </e>
+    <e n="$Redo">
+      <i c="4" l="1716735444026" />
+    </e>
+    <e n="$SelectAll">
+      <i c="7" l="1717010844907" />
+    </e>
+    <e n="$Undo">
+      <i c="61" l="1717011328966" />
+    </e>
+    <e n="Back">
+      <i c="1" l="1716735120377" />
+    </e>
+    <e n="CPP.NewCppFile">
+      <i c="1" l="1717008234304" />
+    </e>
+    <e n="CodeCompletion">
+      <i c="4" l="1717008080883" />
+    </e>
+    <e n="CopyAbsolutePath">
+      <i c="1" l="1717007061391" />
+    </e>
+    <e n="CopyReferencePopupGroup">
+      <i c="1" l="1717007059905" />
+    </e>
+    <e n="Debug">
+      <i c="2" l="1717011458426" />
+    </e>
+    <e n="EditorBackSpace">
+      <i c="450" l="1717011333537" />
+    </e>
+    <e n="EditorChooseLookupItem">
+      <i c="1" l="1716735736749" />
+    </e>
+    <e n="EditorChooseLookupItemReplace">
+      <i c="66" l="1717011274469" />
+    </e>
+    <e n="EditorCopy">
+      <i c="25" l="1717011316281" />
+    </e>
+    <e n="EditorCut">
+      <i c="8" l="1717010978000" />
+    </e>
+    <e n="EditorDelete">
+      <i c="28" l="1717011178121" />
+    </e>
+    <e n="EditorDeleteToWordStart">
+      <i c="5" l="1717009314011" />
+    </e>
+    <e n="EditorDown">
+      <i c="95" l="1717011274144" />
+    </e>
+    <e n="EditorEnter">
+      <i c="111" l="1717011317492" />
+    </e>
+    <e n="EditorEscape">
+      <i c="1" l="1717009171122" />
+    </e>
+    <e n="EditorLeft">
+      <i c="48" l="1717011171788" />
+    </e>
+    <e n="EditorPaste">
+      <i c="33" l="1717011317867" />
+    </e>
+    <e n="EditorPasteFromX11">
+      <i c="1" l="1717011144034" />
+    </e>
+    <e n="EditorRight">
+      <i c="71" l="1717009522912" />
+    </e>
+    <e n="EditorTab">
+      <i c="41" l="1717011334182" />
+    </e>
+    <e n="EditorTabsEntryPoint">
+      <i c="1" l="1716734101429" />
+    </e>
+    <e n="EditorToggleInsertState">
+      <i c="2" l="1716734364060" />
+    </e>
+    <e n="EditorUp">
+      <i c="62" l="1717011125044" />
+    </e>
+    <e n="FileChooser.NewFolder">
+      <i c="2" l="1716731924406" />
+    </e>
+    <e n="Find">
+      <i c="2" l="1717007457734" />
+    </e>
+    <e n="FindInPath">
+      <i c="1" l="1716735146637" />
+    </e>
+    <e n="FindUsages">
+      <i c="1" l="1716735140675" />
+    </e>
+    <e n="GotoClass">
+      <i c="1" l="1717009881448" />
+    </e>
+    <e n="GotoDeclaration">
+      <i c="12" l="1717011444221" />
+    </e>
+    <e n="ImportSettings">
+      <i c="1" l="1716732830448" />
+    </e>
+    <e n="MoveStatementUp">
+      <i c="3" l="1717009861169" />
+    </e>
+    <e n="NewClass">
+      <i c="3" l="1717010327104" />
+    </e>
+    <e n="NewProject">
+      <i c="3" l="1717007510172" />
+    </e>
+    <e n="NextTemplateVariable">
+      <i c="2" l="1717010903463" />
+    </e>
+    <e n="ReformatCode">
+      <i c="2" l="1717010845523" />
+    </e>
+    <e n="RenameElement">
+      <i c="10" l="1717010889705" />
+    </e>
+    <e n="RenameFile">
+      <i c="1" l="1717010386745" />
+    </e>
+    <e n="Resume">
+      <i c="13" l="1717011481456" />
+    </e>
+    <e n="Run">
+      <i c="22" l="1717011367827" />
+    </e>
+    <e n="SaveAll">
+      <i c="88" l="1717011335361" />
+    </e>
+    <e n="ShowIntentionActions">
+      <i c="24" l="1717010752865" />
+    </e>
+    <e n="ShowPopupMenu">
+      <i c="1" l="1717009640008" />
+    </e>
+    <e n="ShowSettings">
+      <i c="6" l="1717009438781" />
+    </e>
+    <e n="Stop">
+      <i c="3" l="1717011380922" />
+    </e>
+    <e n="Terminal.OpenInTerminal">
+      <i c="1" l="1717006704205" />
+    </e>
+    <e n="ToggleLineBreakpoint">
+      <i c="17" l="1717011488878" />
+    </e>
+    <e n="WelcomeScreen.CreateNewProject">
+      <i c="1" l="1716731785909" />
+    </e>
+    <e n="android.deploy.ApplyChanges">
+      <i c="2" l="1717011336591" />
+    </e>
+    <e n="com.android.tools.idea.run.deployment.selector.SelectDeviceAction">
+      <i c="2" l="1717007877510" />
+    </e>
+    <e n="com.android.tools.idea.streaming.core.StreamingToolWindowManager$NewTabAction">
+      <i c="1" l="1717007265299" />
+    </e>
+    <e n="com.android.tools.idea.streaming.core.StreamingToolWindowManager$StartAvdAction">
+      <i c="1" l="1717007266582" />
+    </e>
+    <e n="com.intellij.codeInsight.daemon.NavigateAction">
+      <i c="1" l="1716735159082" />
+    </e>
+    <e n="com.intellij.notification.NotificationAction$Simple">
+      <i c="1" l="1717007790251" />
+    </e>
+    <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
+      <i c="29" l="1717008408399" />
+    </e>
+    <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
+      <i c="1" l="1717009882711" />
+    </e>
+    <e n="com.intellij.openapi.ui.DialogWrapper$5">
+      <i c="6" l="1717010090087" />
+    </e>
+    <e n="com.intellij.refactoring.actions.RenameElementAction">
+      <i c="2" l="1717008504715" />
+    </e>
+    <e n="com.intellij.toolWindow.ToolWindowHeader$HideAction">
+      <i c="3" l="1717009416762" />
+    </e>
+    <e n="com.intellij.ui.CommonActionsPanel$RemoveButton">
+      <i c="1" l="1717007794772" />
+    </e>
+    <e n="copilot.applyInlays">
+      <i c="37" l="1717011334695" />
+    </e>
+    <e n="editRunConfigurations">
+      <i c="1" l="1717007218552" />
+    </e>
+  </component>
+</application>

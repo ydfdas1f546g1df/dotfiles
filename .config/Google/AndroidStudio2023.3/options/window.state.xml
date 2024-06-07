@@ -1,0 +1,32 @@
+<application>
+  <component name="DimensionService">
+    <location key="WELCOME_SCREEN.1600.70.2560.1440" x="2880" y="300" />
+    <location key="find.popup.1600.70.2560.1440" x="2635" y="239" />
+    <size key="GridCell.Tab.0.left.1600.70.2560.1440" width="2514" height="346" />
+    <size key="GridCell.Tab.0.center.1600.70.2560.1440" width="2514" height="346" />
+    <size key="GridCell.Tab.0.right.1600.70.2560.1440" width="2514" height="346" />
+    <size key="GridCell.Tab.0.bottom.1600.70.2560.1440" width="2514" height="346" />
+    <size key="find.popup.1600.70.2560.1440" width="600" height="780" />
+    <size key="GridCell.Tab.1.left.1600.70.2560.1440" width="2514" height="346" />
+    <size key="GridCell.Tab.1.center.1600.70.2560.1440" width="2514" height="346" />
+    <size key="GridCell.Tab.1.right.1600.70.2560.1440" width="2514" height="346" />
+    <size key="GridCell.Tab.1.bottom.1600.70.2560.1440" width="2514" height="346" />
+  </component>
+  <component name="WindowManager">
+    <frame x="2003" y="104" width="1920" height="1054" extendedState="6" />
+  </component>
+  <component name="WindowStateApplicationService">
+    <state x="2663" y="534" width="424" height="519" key="FileChooserDialogImpl" timestamp="1716731935730">
+      <screen x="1600" y="104" width="2560" height="1406" />
+    </state>
+    <state x="2663" y="534" width="424" height="519" key="FileChooserDialogImpl/1600.104.2560.1406/6080.0.1050.1680/0.310.1600.1200/4160.310.1920.1200" timestamp="1716731935730" />
+    <state width="609" height="152" key="ShowUsagesActions.dimensionServiceKey" timestamp="1717008042100">
+      <screen x="1600" y="104" width="2560" height="1406" />
+    </state>
+    <state width="609" height="152" key="ShowUsagesActions.dimensionServiceKey/1600.104.2560.1406/6080.0.1050.1680/0.310.1600.1200/4160.310.1920.1200" timestamp="1717008042100" />
+    <state x="2880" y="300" key="WELCOME_SCREEN" timestamp="1716731762413">
+      <screen x="1600" y="104" width="2560" height="1406" />
+    </state>
+    <state x="2880" y="300" key="WELCOME_SCREEN/1600.104.2560.1406/6080.0.1050.1680/0.310.1600.1200/4160.310.1920.1200" timestamp="1716731762413" />
+  </component>
+</application>

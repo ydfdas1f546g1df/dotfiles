@@ -1,0 +1,8 @@
+<application>
+  <component name="LafManager">
+    <lafs-to-previous-schemes>
+      <laf-to-scheme laf="ExperimentalDark" scheme="_@user_Dracula Colorful" />
+      <laf-to-scheme laf="RiderNight" scheme="_@user_Dracula Colorful" />
+    </lafs-to-previous-schemes>
+  </component>
+</application>

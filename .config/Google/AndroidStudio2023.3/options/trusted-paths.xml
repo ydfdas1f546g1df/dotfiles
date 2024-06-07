@@ -1,0 +1,11 @@
+<application>
+  <component name="Trusted.Paths">
+    <option name="TRUSTED_PROJECT_PATHS">
+      <map>
+        <entry key="/mnt/HDD2/Projects/PlaneControllAPP" value="true" />
+        <entry key="/mnt/HDD2/Projects/PlaneControllAPP2" value="true" />
+        <entry key="/mnt/HDD2/Projects/planeControllAPP" value="true" />
+      </map>
+    </option>
+  </component>
+</application>

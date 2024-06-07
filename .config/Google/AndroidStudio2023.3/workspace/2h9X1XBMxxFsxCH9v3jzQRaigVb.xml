@@ -1,0 +1,61 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="PlaneControllAPP" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="AndroidView" proportions="" version="1" />
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane" />
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+    </panes>
+  </component>
+  <component name="ReaderModeSettings">
+    <option name="enableVisualFormatting" value="false" />
+  </component>
+  <component name="ToolWindowManager">
+    <layout>
+      <window_info id="Bookmarks" order="0" side_tool="true" />
+      <window_info id="Build Variants" order="0" side_tool="true" />
+      <window_info id="Structure" order="0" side_tool="true" />
+      <window_info id="Resources Explorer" order="0" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24821427" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Android Profiler" order="4" />
+      <window_info anchor="bottom" id="Logcat" order="4" />
+      <window_info anchor="bottom" id="App Quality Insights" order="4" />
+      <window_info anchor="bottom" id="Build" order="4" />
+      <window_info anchor="bottom" id="TODO" order="4" />
+      <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="Problems View" order="4" />
+      <window_info anchor="bottom" id="Terminal" order="4" />
+      <window_info anchor="bottom" id="Services" order="4" />
+      <window_info anchor="bottom" id="App Inspection" order="4" />
+      <window_info anchor="right" id="StudioBot" order="0" />
+      <window_info anchor="right" id="Device Explorer" order="0" side_tool="true" />
+      <window_info anchor="right" id="Device Manager 2" order="0" />
+      <window_info anchor="right" id="App Links Assistant" order="0" />
+      <window_info anchor="right" id="Gradle" order="0" />
+      <window_info anchor="right" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="Running Devices" order="0" side_tool="true" />
+      <unified_weights left="0.24821427" />
+    </layout>
+    <recentWindows>
+      <value>Project</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2658" y="568" width="424" height="491" key="FileChooserDialogImpl" timestamp="1717007096900">
+      <screen x="1600" y="104" width="2560" height="1406" />
+    </state>
+    <state x="2658" y="568" width="424" height="491" key="FileChooserDialogImpl/1600.104.2560.1406/6080.0.1050.1680/0.310.1600.1200/4160.310.1920.1200@1600.104.2560.1406" timestamp="1717007096900" />
+  </component>
+</project>
