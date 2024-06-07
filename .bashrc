@@ -1,6 +1,8 @@
 #
 # ~/.bashrc
 #
+export TERMINAL=kitty
+
 
 /home/arch/.config/autostart/scripts/main.sh
 

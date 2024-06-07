@@ -37,10 +37,10 @@ else
 	}
 fi
 # Push changes to the master branch, check if push was successful
-	git push origin master || {
-		echo "Failed to push changes to remote. Exiting."
-		exit 1
-	}
+git push origin master || {
+	echo "Failed to push changes to remote. Exiting."
+	exit 1
+}
 #fi
 
 # Remove the file after pushing

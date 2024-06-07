@@ -135,3 +135,8 @@ CachedExtensionVSIXs/**
 .config/Code - OSS/CachedExtensionVSIXs/**
 .config/github-copilot/**
 .config/Code - OSS/User/settings.json
+.config/Google/AndroidStudio2023.3/studio64.vmoptions
+.config/teamviewer/client.conf
+.config/remmina/remmina.pref
+.config/vlc/vlc-qt-interface.conf
+.config/teamviewer/client.conf

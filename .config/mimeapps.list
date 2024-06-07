@@ -31,6 +31,7 @@ application/pdf=firefox.desktop
 x-scheme-handler/fleet=jetbrains-fleet-095c5cf6-2bf5-4f9b-95b8-577685e45a9c.desktop
 text/calendar=org.mozilla.Thunderbird.desktop
 application/vnd.debian.binary-package=7zFM.desktop
+inode/directory=Thunar.desktop
 
 [Added Associations]
 text/plain=vim.desktop;
