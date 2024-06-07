@@ -14,6 +14,7 @@ adobe-source-han-serif-otc-fonts
 adwaita-cursors
 adwaita-dark
 adwaita-icon-theme
+adwaita-icon-theme-legacy
 aether.lv2
 alacarte
 alsa-card-profiles
@@ -21,6 +22,7 @@ alsa-lib
 alsa-plugins
 alsa-topology-conf
 alsa-ucm-conf
+ant
 antlr4-runtime
 aom
 apache
@@ -171,6 +173,8 @@ electron24
 electron25-debug
 electron27
 electron28
+electron29
+electron30
 elfutils
 embree3
 enchant
@@ -277,6 +281,7 @@ gnome-devel-docs
 gnome-dictionary
 gnome-disk-utility
 gnome-font-viewer
+gnome-keybindings
 gnome-keyring
 gnome-klotski
 gnome-logs

@@ -68,3 +68,5 @@ text/csv=vim.desktop;
 text/calendar=org.mozilla.Thunderbird.desktop;
 video/mp4=vlc.desktop;
 application/vnd.debian.binary-package=org.gnome.FileRoller.desktop;7zFM.desktop;
+text/x-csrc=org.gnome.gedit.desktop;
+application/json=org.gnome.gedit.desktop;
