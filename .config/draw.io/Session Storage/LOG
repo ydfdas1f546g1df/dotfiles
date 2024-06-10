@@ -1,2 +1,3 @@
-2024/04/22-16:59:37.225 247ee Creating DB /home/arch/.config/draw.io/Session Storage since it was missing.
-2024/04/22-16:59:37.231 247ee Reusing MANIFEST /home/arch/.config/draw.io/Session Storage/MANIFEST-000001
+2024/06/10-22:43:53.995 11423 Reusing MANIFEST /home/arch/.config/draw.io/Session Storage/MANIFEST-000001
+2024/06/10-22:43:53.995 11423 Recovering log #3
+2024/06/10-22:43:53.995 11423 Reusing old log /home/arch/.config/draw.io/Session Storage/000003.log 

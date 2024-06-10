@@ -88,8 +88,26 @@
   </configuration>
   <configuration>
     <logicalmonitor>
+      <x>4160</x>
+      <y>278</y>
+      <scale>1</scale>
+      <monitor>
+        <monitorspec>
+          <connector>DP-5</connector>
+          <vendor>SAM</vendor>
+          <product>SMS24A450</product>
+          <serial>HTRC700009</serial>
+        </monitorspec>
+        <mode>
+          <width>1920</width>
+          <height>1200</height>
+          <rate>59.950</rate>
+        </mode>
+      </monitor>
+    </logicalmonitor>
+    <logicalmonitor>
       <x>6080</x>
-      <y>390</y>
+      <y>0</y>
       <scale>1</scale>
       <transform>
         <rotation>right</rotation>
@@ -111,7 +129,7 @@
     </logicalmonitor>
     <logicalmonitor>
       <x>1600</x>
-      <y>0</y>
+      <y>278</y>
       <scale>1</scale>
       <primary>yes</primary>
       <monitor>
@@ -124,13 +142,13 @@
         <mode>
           <width>2560</width>
           <height>1440</height>
-          <rate>144.006</rate>
+          <rate>119.998</rate>
         </mode>
       </monitor>
     </logicalmonitor>
     <logicalmonitor>
       <x>0</x>
-      <y>240</y>
+      <y>665</y>
       <scale>1</scale>
       <monitor>
         <monitorspec>
@@ -143,24 +161,6 @@
           <width>1600</width>
           <height>1200</height>
           <rate>60.000</rate>
-        </mode>
-      </monitor>
-    </logicalmonitor>
-    <logicalmonitor>
-      <x>4160</x>
-      <y>240</y>
-      <scale>1</scale>
-      <monitor>
-        <monitorspec>
-          <connector>DP-5</connector>
-          <vendor>SAM</vendor>
-          <product>SMS24A450</product>
-          <serial>HTRC700009</serial>
-        </monitorspec>
-        <mode>
-          <width>1920</width>
-          <height>1200</height>
-          <rate>59.950</rate>
         </mode>
       </monitor>
     </logicalmonitor>

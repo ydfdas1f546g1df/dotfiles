@@ -7,7 +7,4 @@ file:///mnt/HDD1
 file:///mnt/HDD2
 file:///mnt/NVME
 file:///mnt/SSD
-smb://10.2.0.24/software/
-smb://10.2.0.24/dokumentation/
-smb://10.2.0.24/betrieb/
-smb://10.2.0.24/niklaus$/
+file:///mnt/NASP

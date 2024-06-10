@@ -1,2 +1,3 @@
-2024/04/22-16:59:36.091 247ec Creating DB /home/arch/.config/draw.io/Local Storage/leveldb since it was missing.
-2024/04/22-16:59:36.099 247ec Reusing MANIFEST /home/arch/.config/draw.io/Local Storage/leveldb/MANIFEST-000001
+2024/06/10-22:43:52.018 11423 Reusing MANIFEST /home/arch/.config/draw.io/Local Storage/leveldb/MANIFEST-000001
+2024/06/10-22:43:52.022 11423 Recovering log #3
+2024/06/10-22:43:52.023 11423 Reusing old log /home/arch/.config/draw.io/Local Storage/leveldb/000003.log 

@@ -31,6 +31,7 @@ return {
         "python",
         "query",
         "regex",
+        "haskell",
         -- "tsx",
         -- "typescript",
         "vim",

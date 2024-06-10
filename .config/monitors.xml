@@ -88,8 +88,26 @@
   </configuration>
   <configuration>
     <logicalmonitor>
+      <x>4160</x>
+      <y>143</y>
+      <scale>1</scale>
+      <monitor>
+        <monitorspec>
+          <connector>DP-5</connector>
+          <vendor>SAM</vendor>
+          <product>SMS24A450</product>
+          <serial>HTRC700009</serial>
+        </monitorspec>
+        <mode>
+          <width>1920</width>
+          <height>1200</height>
+          <rate>59.950</rate>
+        </mode>
+      </monitor>
+    </logicalmonitor>
+    <logicalmonitor>
       <x>0</x>
-      <y>310</y>
+      <y>530</y>
       <scale>1</scale>
       <monitor>
         <monitorspec>
@@ -102,25 +120,6 @@
           <width>1600</width>
           <height>1200</height>
           <rate>60.000</rate>
-        </mode>
-      </monitor>
-    </logicalmonitor>
-    <logicalmonitor>
-      <x>1600</x>
-      <y>70</y>
-      <scale>1</scale>
-      <primary>yes</primary>
-      <monitor>
-        <monitorspec>
-          <connector>DP-0</connector>
-          <vendor>AUS</vendor>
-          <product>VG27AQ1A</product>
-          <serial>MBLMQS169583</serial>
-        </monitorspec>
-        <mode>
-          <width>2560</width>
-          <height>1440</height>
-          <rate>144.006</rate>
         </mode>
       </monitor>
     </logicalmonitor>
@@ -147,20 +146,21 @@
       </monitor>
     </logicalmonitor>
     <logicalmonitor>
-      <x>4160</x>
-      <y>310</y>
+      <x>1600</x>
+      <y>143</y>
       <scale>1</scale>
+      <primary>yes</primary>
       <monitor>
         <monitorspec>
-          <connector>DP-5</connector>
-          <vendor>SAM</vendor>
-          <product>SMS24A450</product>
-          <serial>HTRC700009</serial>
+          <connector>DP-0</connector>
+          <vendor>AUS</vendor>
+          <product>VG27AQ1A</product>
+          <serial>MBLMQS169583</serial>
         </monitorspec>
         <mode>
-          <width>1920</width>
-          <height>1200</height>
-          <rate>59.950</rate>
+          <width>2560</width>
+          <height>1440</height>
+          <rate>119.998</rate>
         </mode>
       </monitor>
     </logicalmonitor>
