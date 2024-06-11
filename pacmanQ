@@ -218,6 +218,7 @@ fmt
 folks
 fontconfig
 four-in-a-row
+freecad-appimage
 freeglut
 freeimage
 freeradius
@@ -717,6 +718,8 @@ kbd
 keepassxc
 keyutils
 kicad
+kicad-library
+kicad-library-3d
 kitty
 kitty-shell-integration
 kitty-terminfo

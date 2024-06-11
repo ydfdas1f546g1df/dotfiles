@@ -215,4 +215,28 @@
 			<Merge type="files"/>
 		</Layout>
 	</Menu>
+	<Menu>
+		<Name>System</Name>
+		<Include>
+			<Filename>org.gnome.Usage.desktop</Filename>
+		</Include>
+		<AppDir>/home/arch/.local/share/applications</AppDir>
+	</Menu>
+	<Menu>
+		<Name>Accessories</Name>
+		<Include>
+			<Filename>org.gnome.tweaks.desktop</Filename>
+		</Include>
+		<AppDir>/home/arch/.local/share/applications</AppDir>
+		<Include>
+			<Filename>org.gnome.Usage.desktop</Filename>
+		</Include>
+	</Menu>
+	<Menu>
+		<Name>Internet</Name>
+		<Exclude>
+			<Filename>steam-native.desktop</Filename>
+		</Exclude>
+		<AppDir>/home/arch/.local/share/applications</AppDir>
+	</Menu>
 </Menu>
