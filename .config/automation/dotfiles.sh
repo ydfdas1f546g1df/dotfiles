@@ -3,6 +3,8 @@
 
 commitMessage="Automation Backup" # Define the commit message
 
+echo "$(date): Starting backup process"
+
 echo "I Am $(whoami)"
 
 # Navigate to the home directory
@@ -50,3 +52,5 @@ rm -f pacmanQ crontab.bak || {
 	echo "Failed to remove pacmanQ crontab.bak file. Exiting."
 	exit 1
 }
+
+echo "$(date): Exiting"
