@@ -1456,6 +1456,7 @@ psmisc
 psutils
 pugixml
 pulse-native-provider
+pv
 pyside6
 pyside6-tools
 python
