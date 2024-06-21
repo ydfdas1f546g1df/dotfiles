@@ -1,6 +1,16 @@
 #!/bin/bash
 # This script gets the currently installed programs, stages, commits, and pushes dotfiles.
 
+cleanup() {
+	echo "$(date): Cleaning up operations."
+	rm -f pacmanQ crontab.bak
+
+	echo "$(date): Exiting"
+}
+
+# Trap command to call cleanup function on script exit, failure or interrupt
+trap cleanup EXIT
+
 commitMessage="Automation Backup" # Define the commit message
 
 echo "$(date): Starting backup process"
@@ -46,11 +56,3 @@ git push origin master || {
 	exit 1
 }
 #fi
-
-# Remove the file after pushing
-rm -f pacmanQ crontab.bak || {
-	echo "Failed to remove pacmanQ crontab.bak file. Exiting."
-	exit 1
-}
-
-echo "$(date): Exiting"
