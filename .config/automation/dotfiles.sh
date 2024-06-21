@@ -3,6 +3,9 @@
 
 commitMessage="Automation Backup" # Define the commit message
 
+echo "I Am "
+echo whoami
+
 # Navigate to the home directory
 cd ~ || {
 	echo "Failed to change directory to home. Exiting."

@@ -1,3 +1,3 @@
-30 * * * * ~/.config/automation/dotfiles.sh >> ~/Dotfile.log 2>&1
+32 * * * * ~/.config/automation/dotfiles.sh >> ~/Dotfile.log 2>&1
 #* * * * * echo "Cron test at $(date)" >> ~/cron_test.log
 #* * * * * env > ~/cron_env.txt
