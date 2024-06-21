@@ -122,6 +122,7 @@ cups
 cups-filters
 cups-pk-helper
 curl
+cutecom-debug
 d-spy
 dav1d
 davinci-resolve
@@ -1297,6 +1298,7 @@ mesa
 mesa-demos
 meson
 microsoft-office-appimage
+minicom
 miniupnpc
 minizip
 mjpegtools
@@ -1782,6 +1784,7 @@ rhash
 ripgrep
 rpcbind
 rpcsvc-proto
+rpi-imager
 rpmextract
 rsync
 rtkit
