@@ -700,6 +700,8 @@ iptables
 iputils
 ipython
 iso-codes
+isomaster
+isomaster-debug
 jansson
 jasper
 java-environment-common
@@ -1919,6 +1921,7 @@ rygel
 sane
 sbc
 scour
+screen
 scribus
 sdl12-compat
 sdl2
