@@ -130,22 +130,21 @@
 		<Setting name="Greeting version">3.67.0</Setting>
 		<Setting name="Site Manager position">0 1838 466 1096 591 </Setting>
 		<Setting name="Sitemanager last selected">0/Jellyfin</Setting>
-		<Setting name="Window position and size">0 1786 287 1200 857 </Setting>
+		<Setting name="Window position and size">1 4638 131 1200 857 </Setting>
 		<Setting name="Tab data" sensitive="1">
 			<Tabs>
-				<Tab connected="1" selected="1">
-					<Host>10.2.0.18</Host>
+				<Tab selected="1">
+					<Host>10.100.0.4</Host>
 					<Port>22</Port>
 					<Protocol>1</Protocol>
 					<Type>0</Type>
 					<User>root</User>
-					<Keyfile>/home/arch/.ssh/jellyfinRoot_ed25519</Keyfile>
-					<Logontype>5</Logontype>
+					<Pass encoding="base64">QmFuYW5lbi4xMjM=</Pass>
+					<Logontype>1</Logontype>
 					<EncodingType>Auto</EncodingType>
 					<BypassProxy>0</BypassProxy>
-					<Name>Jellyfin</Name>
-					<Site>0/Jellyfin</Site>
-					<RemotePath>1 0 3 opt 8 jellyfin 6 movies 5 Zohan</RemotePath>
+					<Site></Site>
+					<RemotePath></RemotePath>
 					<LocalPath>/home/arch/Downloads/</LocalPath>
 				</Tab>
 			</Tabs>
