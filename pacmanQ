@@ -7,6 +7,7 @@ abseil-cpp
 accerciser
 accountsservice
 acl
+acpica
 adobe-reader-11
 adobe-source-code-pro-fonts
 adobe-source-han-sans-otc-fonts
@@ -42,8 +43,10 @@ attr
 audiorelay
 audiorelay-debug
 audit
+augeas
 autoconf
 autoconf-archive
+automake
 avahi
 ayatana-ido
 babl
@@ -52,6 +55,7 @@ base
 bash
 bind
 binutils
+bison
 blas
 blosc
 bluez
@@ -136,12 +140,14 @@ dbus-glib
 dconf
 dconf-editor
 deb2targz
+debootstrap
 debugedit
 default-cursors
 desktop-file-utils
 devhelp
 device-mapper
 dhclient
+dhcpcd
 diffutils
 ding-libs
 discord
@@ -193,9 +199,11 @@ evince
 evolution
 evolution-data-server
 exempi
+exfatprogs
 exiv2
 exo
 expat
+f2fs-tools
 faac
 faad2
 fakeroot
@@ -214,6 +222,7 @@ flac
 flac1.3
 flatpak
 flatpak-builder
+flex
 fluidsynth
 fmt
 folks
@@ -328,6 +337,7 @@ gperf
 gperftools
 gpgme
 gpm
+gptfdisk
 graphene
 graphicsmagick
 graphite
@@ -675,6 +685,7 @@ hicolor-icon-theme
 hidapi
 highway
 hitori
+hivex
 hslua-cli
 htop
 http-parser
@@ -710,6 +721,7 @@ jbigkit
 jdk-openjdk
 jemalloc
 jetbrains-toolbox
+jfsutils
 jiggle
 jiggle-debug
 jq
@@ -721,6 +733,7 @@ jsonrpc-glib
 jxrlib
 kbd
 keepassxc
+kernel-headers-musl
 keyutils
 kicad
 kicad-library
@@ -942,6 +955,7 @@ libcheese
 libcloudproviders
 libcmis
 libcolord
+libconfig
 libcue
 libcups
 libcupsfilters
@@ -979,6 +993,7 @@ libepubgen
 libetonyek
 libevdev
 libevent
+libewf
 libexif
 libexttextcat
 libfabric
@@ -1013,6 +1028,7 @@ libgrss
 libgsf
 libgtop
 libgudev
+libguestfs
 libgusb
 libgweather-4
 libgxps
@@ -1048,6 +1064,7 @@ liblangtag
 liblc3
 libldac
 libldap
+libldm
 liblo
 liblouis
 liblqr
@@ -1276,8 +1293,10 @@ lm_sensors
 lmdb
 loupe
 lpsolve
+lrzip
 lsb-release
 lsof
+lsscsi
 lua
 lua-lpeg
 lua51
@@ -1288,6 +1307,7 @@ lv2lint
 lvm2
 lz4
 lzo
+lzop
 m4
 mailcap
 make
@@ -1320,6 +1340,7 @@ mtdev
 mtools
 multipath-tools
 muparser
+musl
 mutter
 mypaint-brushes1
 mysql-workbench
@@ -1339,6 +1360,7 @@ networkmanager
 nfs-utils
 nfsidmap
 ngspice
+nilfs-utils
 ninja
 nlohmann-json
 nmap
@@ -1403,6 +1425,7 @@ p7zip
 p7zip-gui
 p7zip-gui-debug
 pacman
+pacman-contrib
 pacman-mirrorlist
 pahole
 pam
@@ -1459,6 +1482,7 @@ perl-ipc-run3
 perl-ipc-system-simple
 perl-json
 perl-json-maybexs
+perl-libintl-perl
 perl-libwww
 perl-locale-gettext
 perl-lwp-mediatypes
@@ -1851,6 +1875,7 @@ rav1e
 re2
 readline
 redland
+reiserfsprogs
 remmina
 rest
 retro-gtk
@@ -1935,6 +1960,7 @@ seahorse
 sed
 semver
 serd
+setconf
 sgml-common
 shaderc
 shadow
@@ -1945,6 +1971,7 @@ simple-scan
 slack-desktop
 slack-desktop-debug
 slang
+sleuthkit
 smbclient
 snappy
 snapshot
@@ -1961,6 +1988,7 @@ spice-gtk
 spice-protocol
 spirv-tools
 sqlite
+squashfs-tools
 sratom
 srt
 stacer
@@ -1968,13 +1996,16 @@ stack
 startup-notification
 steam
 steam-native-runtime
+strace
 sudo
 suitesparse
+supermin
 sushi
 svt-av1
 svt-hevc
 swell-foop
 swig
+sysfsutils
 syslinux
 sysprof
 systemd
@@ -2027,6 +2058,7 @@ ttf-cascadia-mono-nerd
 ttf-cousine-nerd
 ttf-d2coding-nerd
 ttf-daddytime-mono-nerd
+ttf-dejavu
 ttf-dejavu-nerd
 ttf-envycoder-nerd
 ttf-fantasque-nerd
@@ -2075,7 +2107,10 @@ twolame
 txt2man
 tzdata
 uasm
+uchardet
 udisks2
+unetbootin
+unetbootin-debug
 unibilium
 unixodbc
 unzip
@@ -2155,6 +2190,7 @@ xdotool
 xerces-c
 xf86-input-libinput
 xfconf
+xfsprogs
 xkeyboard-config
 xmlsec
 xorg-fonts-encodings
@@ -2179,6 +2215,7 @@ xxhash
 xz
 yajl
 yaml-cpp
+yara
 yarn
 yasm
 yay
