@@ -41,6 +41,7 @@ argon2
 aribb24
 asciidoctor
 assimp
+asymptote
 at-spi2-core
 atkmm
 attr
@@ -212,6 +213,7 @@ f2fs-tools
 faac
 faad2
 fakeroot
+ffcall
 ffmpeg
 ffmpeg4.4
 fftw
@@ -1172,6 +1174,7 @@ libshout
 libshumate
 libsigc++
 libsigc++-3.0
+libsigsegv
 libslirp
 libsm
 libsndfile
@@ -1561,6 +1564,7 @@ proj
 projectlibre
 protobuf
 protobuf-c
+protontricks
 prrte
 psmisc
 psutils
@@ -1641,6 +1645,7 @@ python-merge3
 python-more-itertools
 python-msgpack
 python-netifaces
+python-nose
 python-numpy
 python-ordered-set
 python-packaging
@@ -1678,6 +1683,7 @@ python-requests
 python-semantic-version
 python-setproctitle
 python-setuptools
+python-setuptools-scm
 python-six
 python-smmap
 python-sniffio
@@ -1704,6 +1710,7 @@ python-tzlocal
 python-urllib3
 python-uvloop
 python-validate-pyproject
+python-vdf
 python-wcwidth
 python-websockets
 python-wheel
@@ -2021,6 +2028,7 @@ sysprof
 systemd
 systemd-libs
 systemd-sysvcompat
+t1utils
 taglib
 tali
 talloc
@@ -2037,6 +2045,8 @@ telepathy-mission-control
 template-glib
 tevent
 texinfo
+texlive-basic
+texlive-bin
 thin-provisioning-tools
 thunar
 thunderbird
@@ -2243,3 +2253,4 @@ zlib
 zstd
 zvbi
 zxing-cpp
+zziplib

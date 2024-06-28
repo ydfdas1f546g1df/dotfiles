@@ -1,0 +1,617 @@
+version:i=96
+
+content{
+  profile{
+    scoutTargetSuccess:i=0
+    scoutBinocularSuccess:i=0
+    footballTargetLockShown:i=0
+    automaticExtinguisher:b=no
+    automaticRepair:b=no
+    automaticPump:b=yes
+    globalSaveVersion:i=0
+    saveVersion:i=2
+    countryId2:i=1
+    firstFreeFlight:b=yes
+    completedOneMission:i=0
+    seenNuclearEvent:b=no
+    seenBackgroundNuclearEvent:b=no
+    battleCntWithSupportPlane:i=0
+
+    warpoints_stat{}
+    last_played{
+      versusItem:t="khalkhin_gol_GSn"
+    }
+
+    pedia_hints{}
+    seen_video{}
+    hints_count{
+      hint{
+        id:i=0
+        totalCount:i=4
+        realisticCount:i=0
+      }
+
+      hint{
+        id:i=31
+        totalCount:i=1
+        realisticCount:i=0
+      }
+
+      hint{
+        id:i=13
+        totalCount:i=4
+        realisticCount:i=0
+      }
+
+      hint{
+        id:i=9
+        totalCount:i=1
+        realisticCount:i=0
+      }
+    }
+  }
+
+  settings{
+    speed:t="kmh"
+    alt:t="meters_alt"
+    dist:t="km_dist"
+    climbSpeed:t="metersPerSecond_climbSpeed"
+    temperature:t="celsius_temperature"
+    wingLoading:t="kg_per_sq_meters_wing_loading"
+    powerToWeightRatio:t="hp_per_kg_power_to_weight_ratio"
+    radialSpeed:t="metersPerSecond_climbSpeed"
+    grassInTankVision:b=yes
+    selectedOnce:b=yes
+    indicatedSpeedType:i=0
+    horizontalSpeed:b=no
+    autoShowChat:b=yes
+    chatMessages:i=1
+    tacticalMapScale:i=1
+    chatFilter:b=yes
+    showPilot:b=yes
+    gunVerticalTargeting:b=no
+    showDeflection:b=yes
+    showGyroSightDeflection:b=no
+    hudScreenshotLogo:b=yes
+    showIndicatorsMode:i=249
+    showIndicatorsModeTitle:b=yes
+    hudShowFuel:i=1
+    hudShowAmmo:i=0
+    hudShowTemperature:i=0
+    hudTpsCrosshairType:i=0
+    hudCrosshairColorPreset:i=0
+    autoPilotOnBombAndGunnerView:i=1
+    autoRearmOnAirfield:b=yes
+    enableLaserDesignatorBeforeLaunch:b=yes
+    seekerAutoStabilization:b=yes
+    activateAirborneRadarOnSpawn:b=yes
+    useRectangularRadarIndicator:b=no
+    radarTargetCycling:b=yes
+    useRadarAimElevationControl:b=yes
+    rwrSensitivity:r=1
+    useRadarHudInCockpit:b=yes
+    useTwsHudInCockpit:b=yes
+    activateAirborneActiveCounterMeasuresOnSpawn:b=yes
+    activateAirborneWeaponSelectionOnSpawn:b=no
+    activateBombsAutoReleaseOnSpawn:b=yes
+    automaticEmptyContainersJettison:b=no
+    hintsMask:i=128
+    autosaveReplays:b=yes
+    showAttachables:b=yes
+    enableXrayDeath:b=yes
+    enableXrayKill:b=yes
+    isSubtitles:i=2
+    isSubtitlesRadio:i=0
+    vwsOnlyInCockpit:b=no
+    usePTT:b=yes
+    useVoiceChat:b=no
+    voiceMessageVoice:i=3
+    viewType:i=0
+    enableControllerLight:b=yes
+    useOculusToAimHelicopter:b=no
+    autoPilotOnGunnerViewHelicopter:i=1
+    hideMouseInSpectator:b=no
+    fixGunInMouseLook:b=no
+    delayedDownloadContent:b=no
+    replaySnapshotsEnabled:b=no
+    recordSnapshotPeriod:i=60
+    preferredDifficulty:i=-1
+    preferredTeam:i=0
+    voiceLanguageType:i=0
+    aerobaticsSmokeType:i=13
+    aerobaticsSmokeColors:i=0
+    gunConvergenceDistance:i=800
+    bombDelayExplosion:r=0
+    depthChargeDelayExplosion:r=3
+    bombActivationType:i=0
+    rocketFuseDist:r=0
+    torpedoDiveDepth:r=1
+    countermeasuresSeries:i=1
+    countermeasuresPeriods:r=0.1
+    countermeasuresSeriesPeriods:r=1
+    bombSeries:i=0
+    hudColor:i=0
+    hudIndicators:i=0
+    hangarSound:b=yes
+    usePerfectRangefinder:b=yes
+    saveAiTargetType:b=yes
+    defaultAiTargetType:i=1
+    enableSoundSpeed:b=no
+    aiGunnerTime:i=1
+    favoriteVoiceMessage1:i=-1
+    favoriteVoiceMessage2:i=-1
+    favoriteVoiceMessage3:i=-1
+    favoriteVoiceMessage4:i=-1
+    favoriteVoiceMessage5:i=-1
+    favoriteVoiceMessage6:i=-1
+    favoriteVoiceMessage7:i=-1
+    favoriteVoiceMessage8:i=-1
+    favoriteVoiceMessage9:i=-1
+    favoriteVoiceMessage10:i=-1
+    favoriteVoiceMessage11:i=-1
+    favoriteVoiceMessage12:i=-1
+    timesIntroVideoPlayed:i=2
+    graphicsAutodetectGpuTimeAvg:r=2.308
+    graphicsAutodetectGpuInfo:t="nvidia geforce rtx 3060"
+    graphicsAutodetectTimestamp:r=1.71959e+09
+    enableInstructorGroundAvoidance:b=yes
+    enableInstructorGearControl:b=yes
+    enableInstructorFlapsControl:b=yes
+    enableInstructorEngineControl:b=yes
+    enableInstructorSimpleJoy:b=yes
+    storeZoomMapByLevel:b=no
+    needShowCompassInTankHud:b=no
+    pitchBlockerWhileBraking:b=no
+    commanderCameraInViews:i=0
+    saveDirWhileSwitchTrigger:b=no
+    hudArcade:t="default"
+    hudRealistic:t="default"
+    hudHardcore:t="default"
+    showDestroyedParts:b=yes
+    activateGroundRadarOnSpawn:b=yes
+    groundRadarTargetCycling:b=yes
+    activateGroundActiveCounterMeasuresOnSpawn:b=yes
+    tankGunnerCameraFromSight:b=no
+    saveZoomCameraSetting:i=0
+    playInactiveWindowSound:b=yes
+    advancedHitIndicatorSimplified:b=no
+    lwsAzimuthIndicatorTimeout:i=2
+    lwsAzimuthIndicatorTimeoutHelicopter:i=2
+    freeCameraZoomSpeed:i=50
+    replayCameraFov:i=90
+
+    customSettings{
+      sendNuclearStatistic:b=no
+      fonts_css:t="big"
+      lastWonInVersion:i=531
+      delayDownloadContent:b=no
+
+      accounts{
+        116545813.production{
+          selected_random_battle:t="air_realistic"
+          "statistic:new_player_tutorial_choice":b=yes
+          firstRunTutorial_tutorial_tank_basics_arcade:b=yes
+          SteamEmailRegistrationShowed:b=yes
+          upgradeCrewSpecTutorialPassed:b=yes
+
+          slotbar_presets{
+            presetsVersion:i=1
+
+            country_germany{
+              preset:t="2|2,3|he51a1,he51b1|Aviation|aircraft_new_players_battle_coop|"
+              preset:t="2|2,3|germ_pzkpfw_III_ausf_E,germ_pzkpfw_35t|Army|tank_new_players_battle_coop|"
+              preset:t="2|2|germ_destroyer_class1924_leopard1932|Bluewater fleet|ship_event_in_random_battles_arcade|"
+              preset:t="2|2|germ_ls_class|Coastal fleet|ship_event_in_random_battles_arcade|"
+              selected:i=0
+            }
+
+            country_ussr{
+              preset:t="5|4,5|i-15_1935,i-15_1935_moscow|Aviation|air_arcade|"
+              preset:t="4|4,5|ussr_t_26_1940,ussr_bt_5|Army|tank_new_players_battle_coop|"
+              preset:t="4|4|ussr_destroyer_frunze|Bluewater fleet|ship_new_players_battle_coop|"
+              preset:t="4|4,5|ussr_g5_mtb,ussr_t_26_1940_1st_GvTBr|Coastal fleet|ship_new_players_battle_coop|"
+              selected:i=3
+            }
+
+            country_britain{
+              preset:t="6|6,7|fury_mk1,fury_mk2|Aviation|aircraft_new_players_battle_coop|"
+              preset:t="6|6,7|uk_a_13_mk1,uk_a17_mk_1_tetrarch|Army|tank_new_players_battle_coop|"
+              preset:t="6|6|uk_destroyer_clemson_churchill|Bluewater fleet|ship_event_in_random_battles_arcade|"
+              preset:t="6|6|uk_mtb_1series|Coastal fleet|ship_event_in_random_battles_arcade|"
+              selected:i=0
+            }
+
+            country_japan{
+              preset:t="8|8,9|ki_10_1_commander,ki_10_1|Aviation|ship_new_players_battle_coop|"
+              preset:t="8|8,9|jp_type_98_ke_ni,jp_type_89b_i_go_otsu|Army|tank_new_players_battle_coop|"
+              preset:t="8|8|jp_destroyer_mutsuki|Bluewater fleet|ship_event_in_random_battles_arcade|"
+              preset:t="8|8|jp_t14_class|Coastal fleet|ship_event_in_random_battles_arcade|"
+              selected:i=0
+            }
+
+            country_china{
+              preset:t="14|14,15|i-15bis_china,gladiator_mk1_china|Aviation|aircraft_new_players_battle_coop|"
+              preset:t="14|14,15|cn_m8_greyhound,cn_t_26_1940|Army|tank_new_players_battle_coop|"
+              selected:i=0
+            }
+
+            country_italy{
+              preset:t="10|10,11|cr_32,cr_32_quater|Aviation|aircraft_new_players_battle_coop|"
+              preset:t="10|10,11|it_m13_40_serie_1,it_m13_40_serie_3|Army|tank_new_players_battle_coop|"
+              preset:t="10|10|it_destroyer_turbine|Bluewater fleet|ship_event_in_random_battles_arcade|"
+              preset:t="10|10|it_mas_classe500_3_1944|Coastal fleet|ship_event_in_random_battles_arcade|"
+              selected:i=0
+            }
+
+            country_france{
+              preset:t="12|12,13|d_371,d_373|Aviation|aircraft_new_players_battle_coop|"
+              preset:t="12|12,13|fr_amd_35,fr_hotchkiss_h39|Army|tank_new_players_battle_coop|"
+              selected:i=0
+            }
+
+            country_sweden{
+              preset:t="16|16,17|gladiator_j8a,j6b|Aviation|aircraft_new_players_battle_coop|"
+              preset:t="16|16,17|sw_strv_m31,sw_strv_m38|Army|tank_new_players_battle_coop|"
+              selected:i=0
+            }
+
+            country_usa{
+              preset:t="1|0,1,18|p-26a_34_m2,p-26b_35,p-26a_33|Aviation|air_realistic|0,1,18"
+              preset:t="0|0,1|us_m2a4,us_lvt_a_1|Army|aircraft_new_players_battle_coop|"
+              preset:t="1|0,1|us_destroyer_clemson_litchfield,p-26a_34_m2|Bluewater fleet|ship_new_players_battle_coop|"
+              preset:t="0|0|us_pt6|Coastal fleet|ship_new_players_battle_coop|"
+              selected:i=0
+            }
+          }
+
+          tutor{
+            tutorialVersion:i=1
+            toBattle:b=yes
+            takeUnit:b=yes
+            researchMod:b=yes
+            newUnitTypetoBattle:b=yes
+
+            newbieBattles{
+              unitsRank{
+                1:i=1
+                4:i=1
+                2:i=1
+                0:i=1
+              }
+            }
+          }
+
+          facebook{
+            lastDayFacebookLikeReminder:i=738275
+          }
+
+          seen{
+            help_mission_type{
+              missionGroundStrikeComplete:i=1
+              missionGroundCapture:i=1
+            }
+
+            gameModes{
+              game_mode_item_tank_new_players_battle_coop:b=yes
+              game_mode_item_ship_new_players_battle_coop:b=yes
+              game_mode_item_air_arcade:b=yes
+              game_mode_item_air_realistic:b=yes
+              game_mode_item_custom_mode_fullreal:b=yes
+              game_mode_item_pve_main_air_arcade:b=yes
+              game_mode_item_world_war_featured_game_mode:b=yes
+            }
+          }
+
+          wnd{
+            battleLogFilterDebriefing:i=0
+            diffMode:i=2
+          }
+
+          worldWar{
+            lastReadLog{
+              operation-1:t=""
+            }
+          }
+
+          selected_crews{
+            country_usa:i=1
+            country_germany:i=0
+            country_ussr:i=0
+            country_britain:i=0
+            country_japan:i=0
+            country_china:i=0
+            country_italy:i=0
+            country_france:i=0
+            country_sweden:i=0
+            country_israel:i=0
+          }
+        }
+      }
+
+      seen{
+        rateWnd:b=yes
+
+        suggestionShowDecalsOnOtherPlayers{
+          show:b=yes
+        }
+      }
+
+      tutor{
+        fontChange:b=yes
+      }
+
+      show_slot_info_panel_tab{
+        mainmenu:i=0
+      }
+
+      voted_polls{}
+      viralAcquisition{
+        resetDays:i=1
+        lastLoginDay:i=739430
+        lastShowTime:i=739430
+      }
+
+      mislist_collapsed_chapters{
+        training:t=""
+        singleMission:t=""
+      }
+
+      useropt{
+        bomb_activation_time{
+          0:r=0
+        }
+
+        bomb_activation_type{
+          0:i=0
+        }
+      }
+
+      changelog{
+        lastLoadedVersionInfoNum:i=841888049
+        lastSeenVersionInfoNum:i=35979301
+        lastLoadedVersionNum:i=35979301
+      }
+
+      myStats{
+        newbieEndedByArmyId{
+          aviation:b=yes
+          army:b=no
+          ships:b=no
+        }
+      }
+
+      gpuBenchmark{
+        seen:b=yes
+        gpuName:t="NVIDIA GeForce RTX 3060"
+      }
+    }
+
+    internetRadioSettings{}
+    unitsSettings{
+      ussr_g5_mtb{
+        USEROPT_BULLETS0:t="12mm_dshk_universal"
+        USEROPT_BULLETS1:t="12mm_dshk_universal"
+        USEROPT_BULLETS2:t="12mm_dshk_universal"
+        USEROPT_BULLETS3:t="12mm_dshk_universal"
+        USEROPT_BULLETS4:t="12mm_dshk_universal"
+        USEROPT_BULLETS5:t="12mm_dshk_universal"
+        USEROPT_BULLET_COUNT0:i=40
+        USEROPT_ROCKET_FUSE_DIST:i=0
+        USEROPT_LOAD_FUEL_AMOUNT:i=300000
+      }
+
+      us_elco_80ft_pt_boat_mod01{
+        USEROPT_AI_GUNNERS_TARGET:i=1
+      }
+
+      us_destroyer_sumner{
+        USEROPT_AI_GUNNERS_TARGET:i=1
+      }
+
+      i-15_1935_moscow{
+        USEROPT_LOAD_FUEL_AMOUNT:i=1000000
+      }
+
+      i-15_1935{
+        USEROPT_LOAD_FUEL_AMOUNT:i=1000000
+      }
+
+      ki_10_1_commander{
+        USEROPT_LOAD_FUEL_AMOUNT:i=1000000
+      }
+
+      us_destroyer_clemson_litchfield{
+        USEROPT_BULLETS0:t="102mm_usa_navy_mk15_nose_fuze"
+        USEROPT_BULLETS1:t="102mm_usa_navy_mk15_nose_fuze"
+        USEROPT_BULLETS2:t="102mm_usa_navy_mk15_nose_fuze"
+        USEROPT_BULLETS3:t="76mm_usa_mk27_navy_HE"
+        USEROPT_BULLETS4:t="76mm_usa_mk27_navy_HE"
+        USEROPT_BULLETS5:t="76mm_usa_mk27_navy_HE"
+        USEROPT_BULLET_COUNT0:i=1200
+        USEROPT_BULLET_COUNT3:i=350
+        USEROPT_AI_GUNNERS_TARGET:i=1
+      }
+
+      p-26a_33{
+        USEROPT_LOAD_FUEL_AMOUNT:i=1000000
+      }
+
+      us_m2a4{
+        USEROPT_BULLET_COUNT0:i=68
+        USEROPT_BULLETS1:t="37mm_usa_m3_APC"
+        USEROPT_BULLETS2:t="37mm_usa_m3_APC"
+        USEROPT_BULLETS3:t="37mm_usa_m3_APC"
+        USEROPT_BULLET_COUNT1:i=35
+      }
+
+      us_lvt_a_1{
+        USEROPT_BULLET_COUNT0:i=104
+      }
+
+      p-26a_34_m2{
+        USEROPT_LOAD_FUEL_AMOUNT:i=1000000
+      }
+
+      p-26b_35{
+        USEROPT_LOAD_FUEL_AMOUNT:i=1000000
+      }
+
+      bf2c_1{
+        USEROPT_WEAPONS:t="bf2c_1_default"
+      }
+
+      fr_destroyer_bourrasque_class_bourrasque{
+        USEROPT_WEAPONS:t="fr_destroyer_bourrasque_class_bourrasque_torpedoes"
+      }
+
+      jp_destroyer_momi{
+        USEROPT_WEAPONS:t="torpedoes"
+      }
+    }
+
+    userSkins{}
+    tankAltCrosshair{
+      a_10a_late:t="test_crosshair"
+      f_15c_msip2:t="test_crosshair"
+    }
+
+    forbid_visual_tags{}
+    hitIndicator{
+      radius:i=100
+      scale:i=100
+      alpha:i=100
+      timeout:i=2
+    }
+
+    lwsIndicator{
+      radius:i=100
+      scale:i=100
+      alpha:i=100
+      timeout:i=2
+    }
+
+    lwsIndicatorHelicopter{
+      radius:i=100
+      scale:i=100
+      alpha:i=100
+      timeout:i=2
+    }
+
+    sensorViewFilters{
+      f0:b=yes
+      f1:b=yes
+      f2:b=yes
+      f3:b=yes
+      f4:b=yes
+      f5:b=yes
+      f6:b=yes
+      f7:b=yes
+      f8:b=yes
+      f9:b=yes
+      f10:b=yes
+      f11:b=yes
+      f12:b=yes
+      f13:b=yes
+      f14:b=yes
+      f15:b=yes
+      f16:b=yes
+      f17:b=yes
+      f18:b=yes
+      f19:b=yes
+      f20:b=yes
+      f21:b=yes
+      f22:b=yes
+      f23:b=yes
+    }
+  }
+
+  selectedAir{
+    current_model:t="p-26b_35"
+    ussr:t="ussr_t_26_1940_1st_GvTBr"
+    germany:t="he51a1"
+    usa:t="p-26b_35"
+    israel:t="f-84f_israel_iaf"
+    sweden:t="gladiator_j8a"
+    france:t="d_371"
+    italy:t="cr_32"
+    china:t="i-15bis_china"
+    japan:t="ki_10_1"
+    britain:t="fury_mk1"
+  }
+
+  customDifficultyBlk{
+    setDifficulty:i=3
+    baseDifficulty:i=1
+    baseDifficultyPreset:i=3
+    engineControl:i=1
+    realGunnery:i=1
+    realDamageModels:b=yes
+    stallsAndSpins:b=yes
+    redOuts:b=yes
+    mortalPilots:b=yes
+    manualTrimming:b=no
+    torqueAndGyro:b=no
+    flutter:b=yes
+    limitedBombsMissiles:b=yes
+    sensor:i=1
+    seeker:i=1
+    radarAssist:b=yes
+    radar:i=0
+    rwr:i=1
+    noArcadeBoost:i=1
+    limitViews:i=0
+    hudAimPrediction:b=no
+    hudMarkers:i=2
+    hudMarkerArrows:b=yes
+    hudAircraftMarkersMaxDist:i=3
+    hudIndicators:b=yes
+    hudShowTankDistance:b=no
+    hudTankRangefinder:i=1
+    hudMapAircraftMarkers:i=2
+    hudMapGroundMarkers:i=2
+    hudMarkersBlink:b=yes
+    hudShowAttentionMarkForAircraft:b=no
+    hudRadar:b=yes
+    hudDamageModel:i=1
+    hudDamageIndicator:b=yes
+    hudLargeAwardMessages:b=yes
+    hudWarnings:b=yes
+    noRespawns:b=no
+    respDifficulty:i=1
+    aircraftHelpers:b=no
+    collectiveDetection:b=yes
+    distDetection:i=1
+    allowControlHelpers:i=0
+    forceInstructor:b=no
+    playerTurretDeviation:i=1
+    hudOutline:b=no
+    ctaCaptureMul:i=1
+    damageModel:i=1
+    hudSpawnShotMarkers:b=no
+    hudShowEnemyDamageLog:b=yes
+    bombAssaultFuseTimeOverride:b=no
+    noviceDM:b=no
+    crewHealingOnlyOnCaptureZone:b=yes
+    showBombSight:b=no
+    showRadarGunSight:b=no
+    visibleNotTraceableIndicators:b=yes
+    checkTreesForIndicators:b=no
+    drawShipBulletFallIndicator:b=no
+    showShipBulletTimer:b=yes
+    ignoreReplenishment:b=no
+    aircraftFriendlyFireForBanOnly:b=no
+    enableLeaveKills:b=yes
+    airToAirMissileDetection:b=no
+    rocketSpotting:b=yes
+    nightVisionInTPS:b=yes
+    hudDetectAlly:b=no
+    keepDeadTankOnMap:b=yes
+    keepDeadShipOnMap:b=yes
+    hudSendSquare:b=yes
+    shipSupportPlanes:b=no
+    lightDM:b=no
+    checkActivityByPlayerDamage:b=no
+    shipGunsRearm:b=no
+    opticalAgmArcadeControl:b=no
+  }
+}
