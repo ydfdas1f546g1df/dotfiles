@@ -1,4 +1,4 @@
-version:i=7
+version:i=16
 
 content{
   machineId:t="6a74f9423925fe15e3f966a27b57b5c57ed172e4"
@@ -11,6 +11,10 @@ content{
     }
 
     hotkeys{
+      ID_AIR_REVERSE{
+        keyboardKey:i=41
+      }
+
       ID_CONTINUE{
         keyboardKey:i=57
       }
@@ -23,10 +27,42 @@ content{
         keyboardKey:i=42
         keyboardKey:i=183
       }
+
+      brake_left_rangeMax{
+        keyboardKey:i=48
+      }
+
+      brake_left_rangeMax{
+        keyboardKey:i=181
+      }
+
+      brake_right_rangeMax{
+        keyboardKey:i=48
+      }
+
+      brake_right_rangeMax{
+        keyboardKey:i=55
+      }
     }
 
-    axes{}
-    params{}
+    axes{
+      climb{
+        axisId:i=0
+      }
+
+      helicopter_atgm_aim_x{
+        axisId:i=0
+      }
+
+      helicopter_atgm_aim_y{
+        axisId:i=1
+      }
+    }
+
+    params{
+      holdThrottleForWEP:b=yes
+    }
+
     deviceMapping{
       joystick{
         connected:b=yes
@@ -92,7 +128,7 @@ content{
     mouseZMultSubmarine:r=0.5
     gamepadMinVibration:r=0.05
     cameraSmooth:r=0
-    cameraSpeed:r=1.1
+    cameraSpeed:r=0.95
     cameraMouseSpeed:r=4
     cameraFpsPhysMult:r=0.5
     vrCameraFpsPhysMult:r=0
@@ -213,10 +249,10 @@ content{
       USEROPT_DEFAULT_TORPEDO_FORESTALL_ACTIVE:b=yes
       USEROPT_ACTIVATE_AIRBORNE_WEAPON_SELECTION_ON_SPAWN:b=no
       USEROPT_AUTOMATIC_EMPTY_CONTAINERS_JETTISON:b=no
-      USEROPT_HELPERS_MODE:i=0
-      USEROPT_MOUSE_USAGE:i=2
+      USEROPT_HELPERS_MODE:i=2
+      USEROPT_MOUSE_USAGE:i=4
       USEROPT_MOUSE_USAGE_NO_AIM:i=4
-      USEROPT_INSTRUCTOR_ENABLED:b=yes
+      USEROPT_INSTRUCTOR_ENABLED:b=no
       USEROPT_AUTOTRIM:b=yes
       USEROPT_SHOW_OTHERS_DECALS:b=no
       USEROPT_CONTENT_ALLOWED_PRESET_ARCADE:t="except_fictional"
@@ -267,7 +303,15 @@ content{
     OPTIONS_MODE_SINGLE_MISSION{}
     OPTIONS_MODE_DYNAMIC{}
     OPTIONS_MODE_USER_MISSION{}
-    OPTIONS_MODE_MP_DOMINATION{}
+    OPTIONS_MODE_MP_DOMINATION{
+      USEROPT_LOAD_FUEL_AMOUNT:i=300000
+      USEROPT_BIT_CHOOSE_UNITS_TYPE:i=7
+      USEROPT_BIT_CHOOSE_UNITS_RANK:i=1
+      USEROPT_BIT_CHOOSE_UNITS_OTHER:i=1
+      USEROPT_BIT_CHOOSE_UNITS_SHOW_UNSUPPORTED_FOR_GAME_MODE:i=-1
+      USEROPT_BIT_CHOOSE_UNITS_SHOW_UNSUPPORTED_FOR_CUSTOM_LIST:i=-1
+    }
+
     OPTIONS_MODE_MP_SKIRMISH{}
     OPTIONS_MODE_SEARCH{}
   }

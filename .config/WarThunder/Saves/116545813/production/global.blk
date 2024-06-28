@@ -1,4 +1,4 @@
-version:i=96
+version:i=116
 
 content{
   profile{
@@ -10,16 +10,16 @@ content{
     automaticPump:b=yes
     globalSaveVersion:i=0
     saveVersion:i=2
-    countryId2:i=1
+    countryId2:i=3
     firstFreeFlight:b=yes
-    completedOneMission:i=0
+    completedOneMission:i=1
     seenNuclearEvent:b=no
     seenBackgroundNuclearEvent:b=no
     battleCntWithSupportPlane:i=0
 
     warpoints_stat{}
     last_played{
-      versusItem:t="khalkhin_gol_GSn"
+      versusItem:t="korsun_GSn"
     }
 
     pedia_hints{}
@@ -120,7 +120,7 @@ content{
     voiceLanguageType:i=0
     aerobaticsSmokeType:i=13
     aerobaticsSmokeColors:i=0
-    gunConvergenceDistance:i=800
+    gunConvergenceDistance:i=700
     bombDelayExplosion:r=0
     depthChargeDelayExplosion:r=3
     bombActivationType:i=0
@@ -183,12 +183,12 @@ content{
     customSettings{
       sendNuclearStatistic:b=no
       fonts_css:t="big"
-      lastWonInVersion:i=531
+      lastWonInVersion:i=549
       delayDownloadContent:b=no
 
       accounts{
         116545813.production{
-          selected_random_battle:t="air_realistic"
+          selected_random_battle:t="air_arcade"
           "statistic:new_player_tutorial_choice":b=yes
           firstRunTutorial_tutorial_tank_basics_arcade:b=yes
           SteamEmailRegistrationShowed:b=yes
@@ -196,38 +196,6 @@ content{
 
           slotbar_presets{
             presetsVersion:i=1
-
-            country_germany{
-              preset:t="2|2,3|he51a1,he51b1|Aviation|aircraft_new_players_battle_coop|"
-              preset:t="2|2,3|germ_pzkpfw_III_ausf_E,germ_pzkpfw_35t|Army|tank_new_players_battle_coop|"
-              preset:t="2|2|germ_destroyer_class1924_leopard1932|Bluewater fleet|ship_event_in_random_battles_arcade|"
-              preset:t="2|2|germ_ls_class|Coastal fleet|ship_event_in_random_battles_arcade|"
-              selected:i=0
-            }
-
-            country_ussr{
-              preset:t="5|4,5|i-15_1935,i-15_1935_moscow|Aviation|air_arcade|"
-              preset:t="4|4,5|ussr_t_26_1940,ussr_bt_5|Army|tank_new_players_battle_coop|"
-              preset:t="4|4|ussr_destroyer_frunze|Bluewater fleet|ship_new_players_battle_coop|"
-              preset:t="4|4,5|ussr_g5_mtb,ussr_t_26_1940_1st_GvTBr|Coastal fleet|ship_new_players_battle_coop|"
-              selected:i=3
-            }
-
-            country_britain{
-              preset:t="6|6,7|fury_mk1,fury_mk2|Aviation|aircraft_new_players_battle_coop|"
-              preset:t="6|6,7|uk_a_13_mk1,uk_a17_mk_1_tetrarch|Army|tank_new_players_battle_coop|"
-              preset:t="6|6|uk_destroyer_clemson_churchill|Bluewater fleet|ship_event_in_random_battles_arcade|"
-              preset:t="6|6|uk_mtb_1series|Coastal fleet|ship_event_in_random_battles_arcade|"
-              selected:i=0
-            }
-
-            country_japan{
-              preset:t="8|8,9|ki_10_1_commander,ki_10_1|Aviation|ship_new_players_battle_coop|"
-              preset:t="8|8,9|jp_type_98_ke_ni,jp_type_89b_i_go_otsu|Army|tank_new_players_battle_coop|"
-              preset:t="8|8|jp_destroyer_mutsuki|Bluewater fleet|ship_event_in_random_battles_arcade|"
-              preset:t="8|8|jp_t14_class|Coastal fleet|ship_event_in_random_battles_arcade|"
-              selected:i=0
-            }
 
             country_china{
               preset:t="14|14,15|i-15bis_china,gladiator_mk1_china|Aviation|aircraft_new_players_battle_coop|"
@@ -256,10 +224,42 @@ content{
             }
 
             country_usa{
-              preset:t="1|0,1,18|p-26a_34_m2,p-26b_35,p-26a_33|Aviation|air_realistic|0,1,18"
+              preset:t="1|0,1,18|p-26a_34_m2,p-26b_35,p-26a_33|Aviation|air_arcade|0,1,18"
               preset:t="0|0,1|us_m2a4,us_lvt_a_1|Army|aircraft_new_players_battle_coop|"
               preset:t="1|0,1|us_destroyer_clemson_litchfield,p-26a_34_m2|Bluewater fleet|ship_new_players_battle_coop|"
               preset:t="0|0|us_pt6|Coastal fleet|ship_new_players_battle_coop|"
+              selected:i=0
+            }
+
+            country_germany{
+              preset:t="2|2,3|he51a1,he51b1|Aviation|air_arcade|2,3,19"
+              preset:t="2|2,3|germ_pzkpfw_III_ausf_E,germ_pzkpfw_35t|Army|tank_new_players_battle_coop|"
+              preset:t="2|2|germ_destroyer_class1924_leopard1932|Bluewater fleet|ship_event_in_random_battles_arcade|"
+              preset:t="2|2|germ_ls_class|Coastal fleet|ship_event_in_random_battles_arcade|"
+              selected:i=0
+            }
+
+            country_britain{
+              preset:t="6|6,7|fury_mk1,fury_mk2|Aviation|air_arcade|6,7,21"
+              preset:t="6|6,7|uk_a_13_mk1,uk_a17_mk_1_tetrarch|Army|tank_new_players_battle_coop|"
+              preset:t="6|6|uk_destroyer_clemson_churchill|Bluewater fleet|ship_event_in_random_battles_arcade|"
+              preset:t="6|6|uk_mtb_1series|Coastal fleet|ship_event_in_random_battles_arcade|"
+              selected:i=0
+            }
+
+            country_ussr{
+              preset:t="5|4,5|i-15_1935,i-15_1935_moscow|Aviation|air_arcade|"
+              preset:t="4|4,5|ussr_t_26_1940,ussr_bt_5|Army|tank_new_players_battle_coop|"
+              preset:t="4|4|ussr_destroyer_frunze|Bluewater fleet|ship_new_players_battle_coop|"
+              preset:t="4|4,5,20|i-15_1935,i-15_1934,i-15_1935_moscow|Coastal fleet|air_arcade|4,5,20"
+              selected:i=3
+            }
+
+            country_japan{
+              preset:t="8|8,9|ki_10_1_commander,ki_10_1|Aviation|air_arcade|8,9,22"
+              preset:t="8|8,9|jp_type_98_ke_ni,jp_type_89b_i_go_otsu|Army|tank_new_players_battle_coop|"
+              preset:t="8|8|jp_destroyer_mutsuki|Bluewater fleet|ship_event_in_random_battles_arcade|"
+              preset:t="8|8|jp_t14_class|Coastal fleet|ship_event_in_random_battles_arcade|"
               selected:i=0
             }
           }
@@ -270,6 +270,7 @@ content{
             takeUnit:b=yes
             researchMod:b=yes
             newUnitTypetoBattle:b=yes
+            researchUnit:b=yes
 
             newbieBattles{
               unitsRank{
@@ -289,6 +290,7 @@ content{
             help_mission_type{
               missionGroundStrikeComplete:i=1
               missionGroundCapture:i=1
+              missionAirDomination:i=1
             }
 
             gameModes{
@@ -314,9 +316,9 @@ content{
           }
 
           selected_crews{
-            country_usa:i=1
+            country_usa:i=0
             country_germany:i=0
-            country_ussr:i=0
+            country_ussr:i=2
             country_britain:i=0
             country_japan:i=0
             country_china:i=0
@@ -330,6 +332,7 @@ content{
 
       seen{
         rateWnd:b=yes
+        rateWndTime:i=1719594755
 
         suggestionShowDecalsOnOtherPlayers{
           show:b=yes
@@ -384,6 +387,27 @@ content{
         seen:b=yes
         gpuName:t="NVIDIA GeForce RTX 3060"
       }
+
+      hintsSeenData{
+        9{
+          seenCount:i=1
+          seenTime:i=1719593945
+        }
+
+        13{
+          seenCount:i=4
+          seenTime:i=1719593945
+        }
+
+        0{
+          seenCount:i=4
+          seenTime:i=1719593945
+        }
+      }
+
+      contacts{
+        recent{}
+      }
     }
 
     internetRadioSettings{}
@@ -409,11 +433,13 @@ content{
       }
 
       i-15_1935_moscow{
-        USEROPT_LOAD_FUEL_AMOUNT:i=1000000
+        USEROPT_LOAD_FUEL_AMOUNT:i=300000
+        USEROPT_BULLET_COUNT0:i=3000
       }
 
       i-15_1935{
-        USEROPT_LOAD_FUEL_AMOUNT:i=1000000
+        USEROPT_LOAD_FUEL_AMOUNT:i=300000
+        USEROPT_BULLET_COUNT0:i=3000
       }
 
       ki_10_1_commander{
@@ -454,6 +480,7 @@ content{
 
       p-26b_35{
         USEROPT_LOAD_FUEL_AMOUNT:i=1000000
+        USEROPT_BULLET_COUNT0:i=1000
       }
 
       bf2c_1{
@@ -466,6 +493,16 @@ content{
 
       jp_destroyer_momi{
         USEROPT_WEAPONS:t="torpedoes"
+      }
+
+      i-15_1934{
+        USEROPT_BULLET_COUNT0:i=3000
+        USEROPT_LOAD_FUEL_AMOUNT:i=300000
+      }
+
+      i-16_type5{
+        USEROPT_WEAPONS:t="I16_type5_default"
+        USEROPT_BULLET_COUNT0:i=1800
       }
     }
 
@@ -526,8 +563,8 @@ content{
   }
 
   selectedAir{
-    current_model:t="p-26b_35"
-    ussr:t="ussr_t_26_1940_1st_GvTBr"
+    current_model:t="i-16_type5"
+    ussr:t="i-16_type5"
     germany:t="he51a1"
     usa:t="p-26b_35"
     israel:t="f-84f_israel_iaf"
@@ -535,7 +572,7 @@ content{
     france:t="d_371"
     italy:t="cr_32"
     china:t="i-15bis_china"
-    japan:t="ki_10_1"
+    japan:t="ki_10_1_commander"
     britain:t="fury_mk1"
   }
 
