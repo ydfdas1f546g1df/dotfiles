@@ -2045,8 +2045,7 @@ telepathy-mission-control
 template-glib
 tevent
 texinfo
-texlive-basic
-texlive-bin
+texlive-full
 thin-provisioning-tools
 thunar
 thunderbird
