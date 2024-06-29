@@ -1,4 +1,4 @@
-version:i=116
+version:i=124
 
 content{
   profile{
@@ -118,7 +118,7 @@ content{
     preferredDifficulty:i=-1
     preferredTeam:i=0
     voiceLanguageType:i=0
-    aerobaticsSmokeType:i=13
+    aerobaticsSmokeType:i=6
     aerobaticsSmokeColors:i=0
     gunConvergenceDistance:i=700
     bombDelayExplosion:r=0
@@ -247,20 +247,20 @@ content{
               selected:i=0
             }
 
-            country_ussr{
-              preset:t="5|4,5|i-15_1935,i-15_1935_moscow|Aviation|air_arcade|"
-              preset:t="4|4,5|ussr_t_26_1940,ussr_bt_5|Army|tank_new_players_battle_coop|"
-              preset:t="4|4|ussr_destroyer_frunze|Bluewater fleet|ship_new_players_battle_coop|"
-              preset:t="4|4,5,20|i-15_1935,i-15_1934,i-15_1935_moscow|Coastal fleet|air_arcade|4,5,20"
-              selected:i=3
-            }
-
             country_japan{
               preset:t="8|8,9|ki_10_1_commander,ki_10_1|Aviation|air_arcade|8,9,22"
               preset:t="8|8,9|jp_type_98_ke_ni,jp_type_89b_i_go_otsu|Army|tank_new_players_battle_coop|"
               preset:t="8|8|jp_destroyer_mutsuki|Bluewater fleet|ship_event_in_random_battles_arcade|"
               preset:t="8|8|jp_t14_class|Coastal fleet|ship_event_in_random_battles_arcade|"
               selected:i=0
+            }
+
+            country_ussr{
+              preset:t="5|4,5|i-15_1935,i-15_1935_moscow|Aviation|air_arcade|"
+              preset:t="4|4,5|ussr_t_26_1940,ussr_bt_5|Army|tank_new_players_battle_coop|"
+              preset:t="4|4|ussr_destroyer_frunze|Bluewater fleet|ship_new_players_battle_coop|"
+              preset:t="20|4,5,20|i-15_1935,i-15_1934,i-16_type5|Coastal fleet|air_arcade|4,5,20"
+              selected:i=3
             }
           }
 
@@ -301,6 +301,7 @@ content{
               game_mode_item_custom_mode_fullreal:b=yes
               game_mode_item_pve_main_air_arcade:b=yes
               game_mode_item_world_war_featured_game_mode:b=yes
+              game_mode_item_tss_featured_game_mode:b=yes
             }
           }
 
@@ -316,16 +317,7 @@ content{
           }
 
           selected_crews{
-            country_usa:i=0
-            country_germany:i=0
-            country_ussr:i=2
-            country_britain:i=0
-            country_japan:i=0
-            country_china:i=0
-            country_italy:i=0
-            country_france:i=0
-            country_sweden:i=0
-            country_israel:i=0
+            country_ussr:i=0
           }
         }
       }
@@ -350,7 +342,7 @@ content{
       voted_polls{}
       viralAcquisition{
         resetDays:i=1
-        lastLoginDay:i=739430
+        lastLoginDay:i=739431
         lastShowTime:i=739430
       }
 
@@ -402,6 +394,11 @@ content{
         0{
           seenCount:i=4
           seenTime:i=1719593945
+        }
+
+        26{
+          seenCount:i=1
+          seenTime:i=1719680986
         }
       }
 
@@ -563,8 +560,8 @@ content{
   }
 
   selectedAir{
-    current_model:t="i-16_type5"
-    ussr:t="i-16_type5"
+    current_model:t="i-15_1935"
+    ussr:t="i-15_1935"
     germany:t="he51a1"
     usa:t="p-26b_35"
     israel:t="f-84f_israel_iaf"
