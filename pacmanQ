@@ -160,6 +160,7 @@ discord
 djvulibre
 dkms
 dleyna
+dnsmasq
 dnssec-anchors
 docbook-xml
 docbook-xsl
@@ -1332,6 +1333,7 @@ mesa-demos
 meson
 microsoft-office-appimage
 minicom
+minikube
 miniupnpc
 minizip
 mips-linux-gnu-binutils
@@ -1372,6 +1374,7 @@ nettle
 networkmanager
 nfs-utils
 nfsidmap
+nftables
 ngspice
 nilfs-utils
 ninja
