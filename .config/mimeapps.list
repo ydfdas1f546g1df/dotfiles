@@ -74,3 +74,4 @@ application/json=org.gnome.gedit.desktop;
 text/x-log=org.gnome.TextEditor.desktop;
 application/vnd.efi.iso=7zFM.desktop;gnome-disk-image-mounter.desktop;
 application/x-zerosize=org.gnome.gedit.desktop;
+application/zip=org.gnome.FileRoller.desktop;
