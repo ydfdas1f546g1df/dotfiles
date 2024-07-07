@@ -996,14 +996,15 @@
      org.inkscape.template.paper.unit="mm"
      org.inkscape.print.eps.cairo.PSlevel="PS3"
      org.inkscape.input.svg.scale="auto"
-     org.inkscape.input.svg.import_mode_svg="include" />
+     org.inkscape.input.svg.import_mode_svg="include"
+     org.inkscape.filter.extract_image.filepath="." />
   <group
      id="desktop"
-     style="fill:#666666;-inkscape-font-specification:Avenir;font-family:Avenir;font-size:16px;stroke-width:377.95275591">
+     style="fill:#000000;-inkscape-font-specification:Avenir;font-family:Avenir;font-size:16px;stroke-width:377.95275591">
     <group
        width="1567"
        height="863"
-       x="1767"
+       x="2397"
        y="34"
        maximized="1"
        fullscreen="0"
