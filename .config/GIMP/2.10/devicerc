@@ -3,8 +3,8 @@
 (GimpDeviceInfo "Core Pointer"
     (icon-name "gimp-cursor")
     (name "Core Pointer")
-    (tool-options "GimpRectangleSelectOptions"
-        (tool "gimp-rect-select-tool"))
+    (tool-options "GimpRegionSelectOptions"
+        (tool "gimp-by-color-select-tool"))
     (use-fg-bg no)
     (use-opacity-paint-mode no)
     (use-brush no)
