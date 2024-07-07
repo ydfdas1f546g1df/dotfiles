@@ -313,7 +313,7 @@
        font_sample="AaBbCcIiPpQq12369$€¢?.;/()"
        show_sample_in_list="1"
        use_svg2="1"
-       style="fill:black;fill-opacity:1;line-height:1.25;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:40px;"
+       style="line-height:1.25;font-family:sans-serif;font-size:133.33333333px"
        selcue="1" />
     <eventcontext
        id="nodes"
@@ -581,7 +581,7 @@
        rotateCounterClockwise="1" />
     <group
        id="align"
-       objects-align-to="page" />
+       objects-align-to="selection" />
     <group
        id="xml"
        h="500"
@@ -610,7 +610,7 @@
        path="">
       <group
          id="exportarea"
-         value="page" />
+         value="drawing" />
       <group
          id="defaultxdpi" />
       <group
@@ -643,9 +643,10 @@
        path=""
        ask="1"
        ask_svg="1"
-       link="link"
+       link="embed"
        scale="auto"
-       import_mode_svg="include" />
+       import_mode_svg="include"
+       forcexdpi="0" />
     <group
        id="debug"
        redirect="0" />
@@ -998,11 +999,11 @@
      org.inkscape.input.svg.import_mode_svg="include" />
   <group
      id="desktop"
-     style="fill:#000000;-inkscape-font-specification:'Sans, Bold';font-family:Sans;font-size:4000.00219727px;stroke-width:37.79527559;stroke:#000000;font-weight:bold">
+     style="fill:#000000;-inkscape-font-specification:Avenir;font-family:Avenir;font-size:266.66666667px;stroke-width:377.95275591">
     <group
-       width="1431"
-       height="1107"
-       x="2004"
+       width="1499"
+       height="863"
+       x="1792"
        y="34"
        maximized="1"
        fullscreen="0"
