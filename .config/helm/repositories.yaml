@@ -10,3 +10,12 @@ repositories:
   password: ""
   url: https://ansible.github.io/awx-operator/
   username: ""
+- caFile: ""
+  certFile: ""
+  insecure_skip_tls_verify: false
+  keyFile: ""
+  name: kubernetes-dashboard
+  pass_credentials_all: false
+  password: ""
+  url: https://kubernetes.github.io/dashboard/
+  username: ""
