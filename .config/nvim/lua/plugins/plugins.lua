@@ -121,4 +121,10 @@ return {
   --  "nvim-telescope/telescope.nvim",
   -- },
   { "wakatime/vim-wakatime", lazy = false },
+  {
+    "nvim-lua/plenary.nvim",
+  },
+  {
+    "ckipp01/nvim-jenkinsfile-linter",
+  },
 }

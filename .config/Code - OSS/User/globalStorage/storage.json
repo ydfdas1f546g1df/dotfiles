@@ -10,7 +10,8 @@
             "file:///mnt/NVME/Projects/COBOLLEARN": "__default__profile__",
             "file:///home/arch": "__default__profile__",
             "file:///mnt/HDD2/ecamp3": "__default__profile__",
-            "file:///mnt/HDD2/Projects/learnESP32nano": "__default__profile__"
+            "file:///mnt/HDD2/Projects/learnESP32nano": "__default__profile__",
+            "file:///mnt/HDD2/Projects/sophos-cert": "__default__profile__"
         },
         "emptyWindows": {}
     },
@@ -25,6 +26,9 @@
             },
             {
                 "folderUri": "file:///mnt/HDD2/Projects/learnESP32nano"
+            },
+            {
+                "folderUri": "file:///mnt/HDD2/Projects/sophos-cert"
             }
         ],
         "emptyWindows": []
@@ -67,10 +71,22 @@
                             "items": [
                                 {
                                     "id": "workbench.action.reopenClosedEditor",
-                                    "label": "&&Reopen Closed Editor"
+                                    "label": "&&Reopen Closed Editor",
+                                    "enabled": false
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///mnt/HDD2/Projects/sophos-cert",
+                                        "path": "/mnt/HDD2/Projects/sophos-cert",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "/mnt/HDD2/Projects/sophos-cert"
                                 },
                                 {
                                     "id": "openRecentFolder",
@@ -208,13 +224,11 @@
                     },
                     {
                         "id": "workbench.action.files.save",
-                        "label": "&&Save",
-                        "enabled": false
+                        "label": "&&Save"
                     },
                     {
                         "id": "workbench.action.files.saveAs",
-                        "label": "Save &&As...",
-                        "enabled": false
+                        "label": "Save &&As..."
                     },
                     {
                         "id": "saveAll",
@@ -254,7 +268,7 @@
                             "items": [
                                 {
                                     "id": "submenuitem.Profiles",
-                                    "label": "Profiles (Default)",
+                                    "label": "Profile (Default)",
                                     "submenu": {
                                         "items": [
                                             {
@@ -350,13 +364,11 @@
                     },
                     {
                         "id": "workbench.action.files.revert",
-                        "label": "Re&&vert File",
-                        "enabled": false
+                        "label": "Re&&vert File"
                     },
                     {
                         "id": "workbench.action.closeActiveEditor",
-                        "label": "&&Close Editor",
-                        "enabled": false
+                        "label": "&&Close Editor"
                     },
                     {
                         "id": "workbench.action.closeFolder",
@@ -405,13 +417,11 @@
                     },
                     {
                         "id": "actions.find",
-                        "label": "&&Find",
-                        "enabled": false
+                        "label": "&&Find"
                     },
                     {
                         "id": "editor.action.startFindReplaceAction",
-                        "label": "&&Replace",
-                        "enabled": false
+                        "label": "&&Replace"
                     },
                     {
                         "id": "vscode.menubar.separator"
@@ -572,7 +582,8 @@
                                 },
                                 {
                                     "id": "workbench.action.togglePanel",
-                                    "label": "&&Panel"
+                                    "label": "&&Panel",
+                                    "checked": true
                                 },
                                 {
                                     "id": "toggle.toggleCustomTitleBar",
@@ -875,8 +886,7 @@
                     },
                     {
                         "id": "editor.action.toggleWordWrap",
-                        "label": "&&Word Wrap",
-                        "enabled": false
+                        "label": "&&Word Wrap"
                     }
                 ]
             },
@@ -884,8 +894,7 @@
                 "items": [
                     {
                         "id": "workbench.action.navigateBack",
-                        "label": "&&Back",
-                        "enabled": false
+                        "label": "&&Back"
                     },
                     {
                         "id": "workbench.action.navigateForward",
@@ -894,8 +903,7 @@
                     },
                     {
                         "id": "workbench.action.navigateToLastEditLocation",
-                        "label": "&&Last Edit Location",
-                        "enabled": false
+                        "label": "&&Last Edit Location"
                     },
                     {
                         "id": "vscode.menubar.separator"
@@ -1215,8 +1223,7 @@
                     },
                     {
                         "id": "workbench.action.terminal.split",
-                        "label": "&&Split Terminal",
-                        "enabled": false
+                        "label": "&&Split Terminal"
                     },
                     {
                         "id": "vscode.menubar.separator"
@@ -1809,16 +1816,17 @@
     },
     "windowsState": {
         "lastActiveWindow": {
-            "folder": "file:///mnt/HDD2/Projects/learnESP32nano",
-            "backupPath": "/home/arch/.config/Code - OSS/Backups/dc8714278fc9de5412c52d65b440dcf9",
+            "folder": "file:///mnt/HDD2/Projects/sophos-cert",
+            "backupPath": "/home/arch/.config/Code - OSS/Backups/c9adbc5887b6b1ebe2760de38126f5ef",
             "uiState": {
                 "mode": 0,
-                "x": 1600,
-                "y": 141,
+                "x": 3728,
+                "y": 37,
                 "width": 2289,
-                "height": 1146
+                "height": 1109
             }
         },
         "openedWindows": []
-    }
+    },
+    "telemetry.devDeviceId": "98363641-bf20-4638-859e-16479a9cd629"
 }
