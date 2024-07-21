@@ -197,7 +197,6 @@ efivar
 egl-wayland
 eglexternalplatform
 eigen
-electron24
 electron25-debug
 electron27
 electron28
