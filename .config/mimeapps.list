@@ -31,7 +31,7 @@ application/pdf=firefox.desktop
 x-scheme-handler/fleet=jetbrains-fleet-095c5cf6-2bf5-4f9b-95b8-577685e45a9c.desktop
 text/calendar=org.mozilla.Thunderbird.desktop
 application/vnd.debian.binary-package=7zFM.desktop
-inode/directory=Thunar.desktop
+inode/directory=thunar.desktop
 application/vnd.ms-publisher=org.gnome.gedit.desktop
 
 [Added Associations]
@@ -78,3 +78,4 @@ application/x-zerosize=org.gnome.gedit.desktop;org.gnome.TextEditor.desktop;
 application/zip=org.gnome.FileRoller.desktop;
 image/x-eps=7zFM.desktop;
 application/vnd.ms-publisher=org.gnome.gedit.desktop;
+inode/directory=thunar.desktop;
