@@ -1424,6 +1424,8 @@ mpg123
 msgpack-c
 mtdev
 mtools
+multimc-bin
+multimc-bin-debug
 multipath-tools
 muparser
 musl
