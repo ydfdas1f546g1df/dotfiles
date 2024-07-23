@@ -1,3 +1,7 @@
 [user]
 	name = ydfdas1f546g1df
 	email = niklauskuelling@gmx.ch
+[init]
+	defaultBranch = master
+[safe]
+	directory = /mnt/NASP/Dokumentation/IaC/AnsibleAWX
