@@ -1,5 +1,6 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhistcnt =3
+let g:netrw_dirhistcnt =4
+let g:netrw_dirhist_4='/mnt/NASP/Dokumentation/IaC/netbox'
 let g:netrw_dirhist_3='/mnt/HDD2/Projects/sophos-cert'
 let g:netrw_dirhist_2='/home/arch/.ssh'
 let g:netrw_dirhist_1='/home/arch/Downloads/TMP'
