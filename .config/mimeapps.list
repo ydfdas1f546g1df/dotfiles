@@ -33,6 +33,7 @@ text/calendar=org.mozilla.Thunderbird.desktop
 application/vnd.debian.binary-package=7zFM.desktop
 inode/directory=thunar.desktop
 application/vnd.ms-publisher=org.gnome.gedit.desktop
+x-scheme-handler/postman=Postman.desktop
 
 [Added Associations]
 text/plain=org.gnome.gedit.desktop;vim.desktop;

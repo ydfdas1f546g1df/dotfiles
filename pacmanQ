@@ -1636,6 +1636,7 @@ poppler-qt5
 popt
 portaudio
 postgresql-libs
+postman-bin
 potrace
 powershell
 powershell-debug
