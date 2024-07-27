@@ -1,10 +1,3 @@
-2024/07/24-20:34:03.658 4437a Creating DB /home/arch/.config/Postman/Partitions/ea3a002b-9ade-4bc6-bd92-a97217eea5df/IndexedDB/file__0.indexeddb.leveldb since it was missing.
-2024/07/24-20:34:03.662 4437a Reusing MANIFEST /home/arch/.config/Postman/Partitions/ea3a002b-9ade-4bc6-bd92-a97217eea5df/IndexedDB/file__0.indexeddb.leveldb/MANIFEST-000001
-2024/07/24-20:34:03.666 44396 Level-0 table #5: started
-2024/07/24-20:34:03.667 44396 Level-0 table #5: 492 bytes OK
-2024/07/24-20:34:03.669 44396 Delete type=0 #3
-2024/07/24-20:34:03.669 44396 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
-2024/07/24-20:34:04.353 4437c Level-0 table #7: started
-2024/07/24-20:34:04.354 4437c Level-0 table #7: 477 bytes OK
-2024/07/24-20:34:04.356 4437c Delete type=0 #4
-2024/07/24-20:34:04.357 4437c Manual compaction at level-0 from '\x00\x02\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x03\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/07/27-22:33:38.984 12c989 Reusing MANIFEST /home/arch/.config/Postman/Partitions/ea3a002b-9ade-4bc6-bd92-a97217eea5df/IndexedDB/file__0.indexeddb.leveldb/MANIFEST-000001
+2024/07/27-22:33:38.984 12c989 Recovering log #6
+2024/07/27-22:33:38.995 12c989 Reusing old log /home/arch/.config/Postman/Partitions/ea3a002b-9ade-4bc6-bd92-a97217eea5df/IndexedDB/file__0.indexeddb.leveldb/000006.log 
