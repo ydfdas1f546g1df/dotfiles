@@ -106,24 +106,21 @@
       </monitor>
     </logicalmonitor>
     <logicalmonitor>
-      <x>6080</x>
-      <y>336</y>
+      <x>1600</x>
+      <y>0</y>
       <scale>1</scale>
-      <transform>
-        <rotation>right</rotation>
-        <flipped>no</flipped>
-      </transform>
+      <primary>yes</primary>
       <monitor>
         <monitorspec>
-          <connector>HDMI-0</connector>
-          <vendor>LEN</vendor>
-          <product>L2250p Wide  </product>
-          <serial>6V8W6050</serial>
+          <connector>DP-0</connector>
+          <vendor>AUS</vendor>
+          <product>VG27AQ1A</product>
+          <serial>MBLMQS169583</serial>
         </monitorspec>
         <mode>
-          <width>1680</width>
-          <height>1050</height>
-          <rate>59.975</rate>
+          <width>2560</width>
+          <height>1440</height>
+          <rate>170.004</rate>
         </mode>
       </monitor>
     </logicalmonitor>
@@ -146,21 +143,24 @@
       </monitor>
     </logicalmonitor>
     <logicalmonitor>
-      <x>1600</x>
-      <y>0</y>
+      <x>6080</x>
+      <y>336</y>
       <scale>1</scale>
-      <primary>yes</primary>
+      <transform>
+        <rotation>right</rotation>
+        <flipped>no</flipped>
+      </transform>
       <monitor>
         <monitorspec>
-          <connector>DP-0</connector>
-          <vendor>AUS</vendor>
-          <product>VG27AQ1A</product>
-          <serial>MBLMQS169583</serial>
+          <connector>HDMI-0</connector>
+          <vendor>LEN</vendor>
+          <product>L2250p Wide  </product>
+          <serial>6V8W6050</serial>
         </monitorspec>
         <mode>
-          <width>2560</width>
-          <height>1440</height>
-          <rate>59.951</rate>
+          <width>1680</width>
+          <height>1050</height>
+          <rate>59.975</rate>
         </mode>
       </monitor>
     </logicalmonitor>
