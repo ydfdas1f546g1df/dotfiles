@@ -81,3 +81,4 @@ image/x-eps=7zFM.desktop;
 application/vnd.ms-publisher=org.gnome.gedit.desktop;
 inode/directory=thunar.desktop;
 application/vnd.rar=org.gnome.FileRoller.desktop;7zFM.desktop;
+image/jpeg=org.gnome.gedit.desktop;
