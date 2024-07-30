@@ -62,6 +62,7 @@ base-devel
 bash
 bind
 binutils
+binwalk
 bison
 blas
 blosc
