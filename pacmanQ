@@ -152,6 +152,7 @@ dconf
 dconf-editor
 deb2targz
 debootstrap
+debtap
 debugedit
 default-cursors
 desktop-file-utils
@@ -162,6 +163,8 @@ dhcpcd
 diffutils
 ding-libs
 discord
+distro-info
+distro-info-data
 djvulibre
 dkms
 dleyna
@@ -203,6 +206,7 @@ electron27
 electron28
 electron29
 electron30
+electron31
 elfutils
 embree3
 enchant
@@ -366,6 +370,7 @@ groff
 grpc
 grub
 gsettings-desktop-schemas
+gsettings-system-schemas
 gsfonts
 gsl
 gsm
@@ -1295,6 +1300,7 @@ liburing
 libusb
 libusbmuxd
 libutempter
+libutf8proc
 libuv
 libva
 libvdpau
@@ -1630,6 +1636,7 @@ pipewire-session-manager
 pixman
 pkcs11-helper
 pkgconf
+pkgfile
 platformio-git
 podofo
 polari
