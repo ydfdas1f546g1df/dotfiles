@@ -134,6 +134,8 @@ cracklib
 cronie
 cryptsetup
 ctags
+cuda
+cuda-tools
 cups
 cups-filters
 cups-pk-helper
@@ -160,6 +162,7 @@ devhelp
 device-mapper
 dhclient
 dhcpcd
+dialog
 diffutils
 ding-libs
 discord
@@ -265,6 +268,8 @@ gawk
 gc
 gcc
 gcc-libs
+gcc13
+gcc13-libs
 gcr
 gcr-4
 gd
@@ -728,6 +733,7 @@ imlib2
 inetutils
 iniparser
 inkscape
+intel-oneapi-basekit
 ipmitool
 iproute2
 iptables
@@ -750,6 +756,8 @@ jiggle
 jiggle-debug
 john
 jq
+jre8-openjdk
+jre8-openjdk-headless
 js115
 json-c
 json-glib
@@ -837,6 +845,7 @@ ldb
 ldns
 lensfun
 less
+level-zero-loader
 lib2geom
 lib32-acl
 lib32-alsa-lib
@@ -1527,6 +1536,7 @@ p11-kit
 p7zip
 p7zip-gui
 p7zip-gui-debug
+packettracer
 pacman
 pacman-contrib
 pacman-mirrorlist
@@ -2097,6 +2107,7 @@ sord
 sound-theme-freedesktop
 soundtouch
 spandsp
+spdlog
 speech-dispatcher
 speex
 speexdsp
