@@ -1,3 +1,6 @@
-2024/08/03-03:56:33.850 4331e Reusing MANIFEST /home/arch/.config/Postman/Partitions/ea3a002b-9ade-4bc6-bd92-a97217eea5df/IndexedDB/file__0.indexeddb.leveldb/MANIFEST-000001
-2024/08/03-03:56:33.850 4331e Recovering log #6
-2024/08/03-03:56:33.864 4331e Reusing old log /home/arch/.config/Postman/Partitions/ea3a002b-9ade-4bc6-bd92-a97217eea5df/IndexedDB/file__0.indexeddb.leveldb/000006.log 
+2024/08/03-21:32:10.283 5864d Reusing MANIFEST /home/arch/.config/Postman/Partitions/ea3a002b-9ade-4bc6-bd92-a97217eea5df/IndexedDB/file__0.indexeddb.leveldb/MANIFEST-000001
+2024/08/03-21:32:10.283 5864d Recovering log #6
+2024/08/03-21:32:10.297 5864d Reusing old log /home/arch/.config/Postman/Partitions/ea3a002b-9ade-4bc6-bd92-a97217eea5df/IndexedDB/file__0.indexeddb.leveldb/000006.log 
+2024/08/03-21:32:11.277 586b2 Level-0 table #10: started
+2024/08/03-21:32:11.286 586b2 Level-0 table #10: 1101298 bytes OK
+2024/08/03-21:32:11.289 586b2 Delete type=0 #6

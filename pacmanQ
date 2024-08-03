@@ -349,6 +349,7 @@ gnome-usage
 gnome-user-docs
 gnome-user-share
 gnu-free-fonts
+gnu-netcat
 gnucash-git
 gnucash-git-debug
 gnupg
@@ -1424,6 +1425,7 @@ media-player-info
 mesa
 mesa-demos
 meson
+metasploit
 mhash
 microsoft-office-appimage
 minicom
