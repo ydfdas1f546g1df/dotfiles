@@ -1,0 +1,19 @@
+#User Preferences
+#Sat Aug 03 13:29:53 CEST 2024
+G_FILE_CHOOSER.HEIGHT.Select\ a\ Ghidra\ Project\ Directory=600
+G_FILE_CHOOSER.VIEW_STYLE.Select\ a\ Ghidra\ Project\ Directory=SimpleView
+G_FILE_CHOOSER.WIDTH.Select\ a\ Ghidra\ Project\ Directory=800
+GhidraShowWhatsNew=false
+LAST_USED_OPTIONS_CONFIG=Standard Defaults
+LastImportFile=/home/arch/Downloads/damn-intern/damn-intern
+LastNewProjectDirectory=/mnt/HDD2/ghidra/shcCTF/
+LastOpenedProject=/mnt/HDD2/ghidra/shcCTF/SHCCTF
+ProjectDirectory=/mnt/HDD2/ghidra/shcCTF/
+RECENT_0=/mnt/HDD2/ghidra
+RecentProjects=/mnt/HDD2/ghidra/shcCTF/SHCCTF
+SHOW.HELP.NAVIGATION.AID=true
+SHOW_TIPS=true
+TIP_INDEX=2
+Theme=Class\:generic.theme.builtin.NimbusTheme
+USER_AGREEMENT=ACCEPT
+ViewedProjects=
