@@ -34,6 +34,7 @@ application/vnd.debian.binary-package=7zFM.desktop
 inode/directory=thunar.desktop
 application/vnd.ms-publisher=org.gnome.gedit.desktop
 x-scheme-handler/postman=Postman.desktop
+application/vnd.sqlite3=org.gnome.gedit.desktop
 
 [Added Associations]
 text/plain=WebStorm-8ff51b92-2fc9-4c90-a093-b020864a3ffd.desktop;org.gnome.gedit.desktop;vim.desktop;
@@ -83,3 +84,4 @@ inode/directory=thunar.desktop;
 application/vnd.rar=org.gnome.FileRoller.desktop;7zFM.desktop;
 image/jpeg=org.gnome.gedit.desktop;
 text/x-python=org.gnome.gedit.desktop;
+application/vnd.sqlite3=org.gnome.gedit.desktop;

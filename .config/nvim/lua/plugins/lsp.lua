@@ -37,15 +37,8 @@ return {
     lazy = false, -- This plugin is already lazy
   },
   {
-    "neotest-haskell",
-  },
-  {
-    "haskell-snippets.nvim",
-  },
-  {
     "LuaSnip",
   },
   { "telescope.nvim" },
   { "nvim-dap" },
-  { "neotest" },
 }
