@@ -85,3 +85,4 @@ application/vnd.rar=org.gnome.FileRoller.desktop;7zFM.desktop;
 image/jpeg=org.gnome.gedit.desktop;
 text/x-python=org.gnome.gedit.desktop;
 application/vnd.sqlite3=org.gnome.gedit.desktop;
+application/x-php=org.gnome.gedit.desktop;
