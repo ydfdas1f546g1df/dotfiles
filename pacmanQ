@@ -274,6 +274,8 @@ gcc13-libs
 gcr
 gcr-4
 gd
+gdb
+gdb-common
 gdbm
 gdk-pixbuf2
 gdm
@@ -2109,6 +2111,7 @@ soqt
 sord
 sound-theme-freedesktop
 soundtouch
+source-highlight
 spandsp
 spdlog
 speech-dispatcher

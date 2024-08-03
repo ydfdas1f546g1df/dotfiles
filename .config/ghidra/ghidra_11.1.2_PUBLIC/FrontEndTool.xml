@@ -2,10 +2,10 @@
 <FRONTEND VERSION="11.1.2">
     <TOOL_CONFIG CONFIG_NAME="NO_LONGER_USED">
         <ICON LOCATION="view_detailed.png" />
-        <TOOL TOOL_NAME="Ghidra: SHCCTF" INSTANCE_NAME="">
+        <TOOL TOOL_NAME="Ghidra: sdfg" INSTANCE_NAME="">
             <OPTIONS />
-            <PACKAGE NAME="Ghidra Core" />
             <PACKAGE NAME="Utility" />
+            <PACKAGE NAME="Ghidra Core" />
             <PLUGIN_STATE CLASS="ghidra.plugin.importer.ImporterPlugin">
                 <ARRAY NAME="library search paths" TYPE="string">
                     <A VALUE="/bin" />
@@ -23,7 +23,7 @@
             </PLUGIN_STATE>
             <ROOT_NODE X_POS="2480" Y_POS="420" WIDTH="800" HEIGHT="600" EX_STATE="0" FOCUSED_OWNER="FrontEnd Tool" FOCUSED_NAME="FrontEnd" FOCUSED_TITLE="Project Window">
                 <COMPONENT_NODE TOP_INFO="0">
-                    <COMPONENT_INFO NAME="FrontEnd" OWNER="FrontEnd Tool" TITLE="Project Window" ACTIVE="true" GROUP="Default" INSTANCE_ID="3612731071111365475" />
+                    <COMPONENT_INFO NAME="FrontEnd" OWNER="FrontEnd Tool" TITLE="Project Window" ACTIVE="true" GROUP="Default" INSTANCE_ID="3612796354380840163" />
                 </COMPONENT_NODE>
             </ROOT_NODE>
             <PREFERENCES>
