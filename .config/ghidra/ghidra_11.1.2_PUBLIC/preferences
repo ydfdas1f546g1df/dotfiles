@@ -1,5 +1,5 @@
 #User Preferences
-#Sat Aug 03 22:26:17 CEST 2024
+#Sun Aug 04 13:48:13 CEST 2024
 G_FILE_CHOOSER.HEIGHT.Open\ a\ Ghidra\ Project=600
 G_FILE_CHOOSER.HEIGHT.Select\ a\ Ghidra\ Project\ Directory=600
 G_FILE_CHOOSER.VIEW_STYLE.Open\ a\ Ghidra\ Project=SimpleView
@@ -8,7 +8,7 @@ G_FILE_CHOOSER.WIDTH.Open\ a\ Ghidra\ Project=800
 G_FILE_CHOOSER.WIDTH.Select\ a\ Ghidra\ Project\ Directory=800
 GhidraShowWhatsNew=false
 LAST_USED_OPTIONS_CONFIG=Standard Defaults
-LastImportFile=/home/arch/Downloads/three-little-lines/three_little_lines
+LastImportFile=/home/arch/Downloads/vr-training/vr
 LastNewProjectDirectory=/mnt/HDD2/ghidra/shcCTF/
 LastOpenedProject=/mnt/HDD2/ghidra/shcCTF/sdfg
 LastSelectedProjectDirectory=/mnt/HDD2/ghidra/shcCTF
@@ -18,7 +18,7 @@ RECENT_1=/mnt/HDD2/ghidra
 RecentProjects=/mnt/HDD2/ghidra/shcCTF/sdfg;/mnt/HDD2/ghidra/shcCTF/SHCCTF
 SHOW.HELP.NAVIGATION.AID=true
 SHOW_TIPS=true
-TIP_INDEX=3
+TIP_INDEX=4
 Theme=Class\:generic.theme.builtin.NimbusTheme
 USER_AGREEMENT=ACCEPT
 ViewedProjects=
