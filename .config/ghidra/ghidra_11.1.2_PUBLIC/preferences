@@ -1,5 +1,5 @@
 #User Preferences
-#Sun Aug 04 13:48:13 CEST 2024
+#Sun Aug 04 14:34:59 CEST 2024
 G_FILE_CHOOSER.HEIGHT.Open\ a\ Ghidra\ Project=600
 G_FILE_CHOOSER.HEIGHT.Select\ a\ Ghidra\ Project\ Directory=600
 G_FILE_CHOOSER.VIEW_STYLE.Open\ a\ Ghidra\ Project=SimpleView
@@ -8,7 +8,7 @@ G_FILE_CHOOSER.WIDTH.Open\ a\ Ghidra\ Project=800
 G_FILE_CHOOSER.WIDTH.Select\ a\ Ghidra\ Project\ Directory=800
 GhidraShowWhatsNew=false
 LAST_USED_OPTIONS_CONFIG=Standard Defaults
-LastImportFile=/home/arch/Downloads/vr-training/vr
+LastImportFile=/home/arch/Downloads/baby-stack/baby-stack
 LastNewProjectDirectory=/mnt/HDD2/ghidra/shcCTF/
 LastOpenedProject=/mnt/HDD2/ghidra/shcCTF/sdfg
 LastSelectedProjectDirectory=/mnt/HDD2/ghidra/shcCTF
