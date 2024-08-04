@@ -46,6 +46,7 @@ at-spi2-core
 atkmm
 attica5
 attr
+audiofile
 audiorelay
 audiorelay-debug
 audit
@@ -263,6 +264,8 @@ freetype2
 frei0r-plugins
 fribidi
 fuse-common
+fuse-emulator
+fuse-emulator-debug
 fuse2
 fuse3
 gawk
@@ -1278,6 +1281,8 @@ libsoup
 libsoup3
 libsoxr
 libspectre
+libspectrum
+libspectrum-debug
 libspeechd
 libspiro
 libspnav
