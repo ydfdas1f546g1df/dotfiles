@@ -37,7 +37,7 @@ x-scheme-handler/postman=Postman.desktop
 application/vnd.sqlite3=org.gnome.gedit.desktop
 
 [Added Associations]
-text/plain=WebStorm-8ff51b92-2fc9-4c90-a093-b020864a3ffd.desktop;org.gnome.gedit.desktop;vim.desktop;
+text/plain=org.gnome.gedit.desktop;WebStorm-8ff51b92-2fc9-4c90-a093-b020864a3ffd.desktop;vim.desktop;
 application/x-shellscript=org.gnome.gedit.desktop;org.gnome.TextEditor.desktop;vim.desktop;
 x-scheme-handler/http=firefox.desktop;
 text/html=org.gnome.gedit.desktop;firefox.desktop;
