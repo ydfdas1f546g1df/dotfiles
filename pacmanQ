@@ -217,6 +217,7 @@ embree3
 enchant
 endeavour
 eog
+etcher-bin
 ethtool
 evince
 evolution
@@ -2190,6 +2191,7 @@ tree-sitter-lua
 tree-sitter-markdown
 tree-sitter-python
 tree-sitter-query
+tree-sitter-vim
 tree-sitter-vimdoc
 tslib
 ttf-0xproto-nerd
