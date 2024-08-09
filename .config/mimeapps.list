@@ -35,6 +35,7 @@ inode/directory=thunar.desktop
 application/vnd.ms-publisher=org.gnome.gedit.desktop
 x-scheme-handler/postman=Postman.desktop
 application/vnd.sqlite3=org.gnome.gedit.desktop
+application/octet-stream=7zFM.desktop
 
 [Added Associations]
 text/plain=org.gnome.gedit.desktop;WebStorm-8ff51b92-2fc9-4c90-a093-b020864a3ffd.desktop;vim.desktop;
@@ -86,3 +87,4 @@ image/jpeg=org.gnome.gedit.desktop;
 text/x-python=org.gnome.gedit.desktop;
 application/vnd.sqlite3=org.gnome.gedit.desktop;
 application/x-php=org.gnome.gedit.desktop;
+application/octet-stream=7zFM.desktop;
